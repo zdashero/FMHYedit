@@ -134,6 +134,7 @@
 * [Tempest](http://www.erikyyy.de/tempest/) - Use Monitor as AM Radio
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry-Pi Tx/Rx 6GHz SDR
 * [SiriusXM](https://redd.it/txqtsx) - Free SiriusXM Guide / [Activator](https://parker-stephens.github.io/siriusxm-activator/)
+* [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 * [Audioburst](https://search.audioburst.com/) - Podcast Clip Search
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
