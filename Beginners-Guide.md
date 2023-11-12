@@ -65,7 +65,8 @@ Still feel unsure? Reach out to us via [Discord](https://redd.it/17f8msf) & make
 
 ### Browser
 
-**[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
+**[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)** - Normal Browsers
+**[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)** - Privacy-Hardened Firefox
 **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_userscripts)** - Add features & functionality to browser
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
 **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
