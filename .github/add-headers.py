@@ -36,7 +36,6 @@ def apply_to_all_md_files_in_current_dir():
             with open(file, 'r', encoding='utf-8') as f:
                 content = f.read()
                 if not content.startswith('---'):
-                    print("adding header to " + file)
                     with open(file, 'w', encoding='utf-8') as f2:
                         header = getHeaderForPage(file)
                         f2.write(header+content)
