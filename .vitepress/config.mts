@@ -4,10 +4,10 @@ import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
 import { commitRef, meta } from "./constants";
 import { pwa } from "./pwa";
-import { generateMeta } from "./hooks/meta";
 import { fileURLToPath } from "url";
-import { copyableCodePlugin } from "./markdown";
-import { generateImages } from "./hooks";
+import { generateImages, generateMeta } from "./hooks";
+import { toggleStarredPlugin } from "./markdown/toggleStarred";
+import { base64DecodePlugin } from "./markdown/base64";
 
 export default defineConfig({
   title: "FMHY",
@@ -73,7 +73,8 @@ export default defineConfig({
   },
   markdown: {
     config(md) {
-      md.use(copyableCodePlugin);
+      md.use(toggleStarredPlugin);
+      md.use(base64DecodePlugin);
     },
   },
   themeConfig: {
@@ -84,7 +85,7 @@ export default defineConfig({
       provider: "local",
     },
     footer: {
-      message: `Made with ❤️ (${commitRef})`,
+      message: `Made with ❤️ (rev: ${commitRef})`,
     },
     outline: "deep",
     logo: "/fmhy.ico",

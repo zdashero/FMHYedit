@@ -2,6 +2,7 @@
 import Field from "./CardField.vue";
 import Modal from "./Modal.vue";
 import InputField from "./InputField.vue";
+import ToggleStarred from "./ToggleStarred.vue";
 </script>
 
 <template>
@@ -20,11 +21,11 @@ import InputField from "./InputField.vue";
         <Modal />
       </template>
     </InputField>
-    <!-- <InputField id="toggle-starred" label="Toggle Starred"> -->
-    <!--   <template #display> -->
-    <!--     <button class="p-[4px 8px] text-xl i-carbon:star"></button> -->
-    <!--   </template> -->
-    <!-- </InputField> -->
+    <InputField id="toggle-starred" label="Toggle Starred">
+      <template #display>
+        <ToggleStarred />
+      </template>
+    </InputField>
   </div>
 </template>
 

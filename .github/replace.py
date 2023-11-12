@@ -39,7 +39,8 @@ def change_some_general_formatting(text):
     text = re.sub(r'^\* \*\*Note\*\* - (.+)$', r':::tip\n\1\n:::', text, flags=re.MULTILINE)
     text = re.sub(r'^Note - (.+)$', r':::tip\n\1\n:::', text, flags=re.MULTILINE)
     text = re.sub(r'^\*\*Warning\*\* - (.+)$', r':::warning\n\1\n:::', text, flags=re.MULTILINE)
-
+    
+    text = re.sub(r'^\*\s([^*])', "- \\1", text, 0, re.MULTILINE)
     return text
 
 def remove_backtowiki_and_toc(text):
@@ -112,83 +113,4 @@ def apply_replace_to_all_md_files_in_current_dir():
                 with open(file, 'w', encoding='utf-8') as f2:
                     f2.write(content)
 
-def print_info_for_confirmation():
-    print("This script is about to replace URLs in all .md files in the current directory: " + os.getcwd())
-    print("The affected files will be the following:")
-    files = os.listdir('.')
-    for file in files:
-        if file.endswith('.md'):
-            print(file)
-
-
-
-
-# TESTER
-testText = """
-aaaaaaaa (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download) aaaaaaa
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-* ⭐ **[YouTube Music Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players)**
-Soundtracks](https://github.com/nbats/FMHYedit/blob/main/base64.md#damons-game-soundtracks)**, [Squ
-(https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)
-(https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_tracking_.2F_discovery)
-(https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_adblock_.2F_privacy)
-(https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)
-[sdfasdf](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio)gwrgewrgew
-(https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation)
-adfads awerfaw (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)
-(https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_downloading) aaaaaaaaa
-(https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions)
-* [link](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ...sdvs
-https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_painting_.2F_drawing
-* ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
-(https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)
-https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_open_directory_search_string_builder
-https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_file_tools
-
-~~~~~~
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/whYmImm.png)** - For mobile users
-
-***
-***
-
-~~~~~~
-
-argaseg ae this is legit test between stuff to remove1
-
-***
-
-# ► with ##
-## ▷ with ###
-#### with ###
-
-* **Note** - Some aggregators still include TPB, so it's best to avoid using them for software and games.
-
-**Warning** - Misuse of Chat Archivers, Deleters, Mods & 3rd Party Clients is against Discords TOS, so use them at your own risk.
-
-**[movie-web](https://movie-web.app/) / [FMovies](https://fmovies.name/) / [Soap2Day](https://soapgate.org/)** - Fast streaming
-**[Zoro](https://zoro.to/) / [9Anime](https://www.9anime.to/)** - Fast  anime streaming
-
-
-"""
-def just_test_the_replacer_function():
-    print("---TEST---")
-    print("This is how the resulting edited links would look like:")
-    print( replace_urls_in_links_to_FMHY_wiki(testText) )
-    print("---END OF TEST---\n\n\n")
-
-just_test_the_replacer_function()
-
-
-
-
-# MAIN EXECUTION
-print("---MAIN SCRIPT---")
-print_info_for_confirmation()
 apply_replace_to_all_md_files_in_current_dir()
-print("---END OF MAIN SCRIPT---")
