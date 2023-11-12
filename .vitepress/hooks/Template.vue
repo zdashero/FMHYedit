@@ -24,8 +24,8 @@ defineProps<{ title: string; description?: string }>();
         </div>
       </div>
       <div tw="w-full pr-56 flex flex-col items-start justify-end">
-        <div tw="text-6xl font-bold text-stone-200" v-html="title" />
-        <div style="background-color: #f3f4f6" tw="mt-2 text-4xl" v-html="description" />
+        <div style="color: #f3f4f6" tw="text-6xl font-bold" v-html="title" />
+        <div style="color: #c0caf5" tw="mt-2 text-4xl" v-html="description" />
       </div>
     </div>
     <div tw="shrink-0 h-4 w-full flex" style="background-color: #7bc5e4" />
