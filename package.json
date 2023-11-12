@@ -25,7 +25,8 @@
     "vitepress": "1.0.0-rc.25",
     "vue": "^3.3.7",
     "workbox-window": "^7.0.0",
-    "x-satori": "^0.1.5"
+    "x-satori": "^0.1.5",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.21",

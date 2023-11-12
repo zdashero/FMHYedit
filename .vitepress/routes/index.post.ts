@@ -1,10 +1,5 @@
 import { fetcher } from "itty-fetcher";
-
-interface Feedback {
-  message: string;
-  feedbackType?: string;
-  contactEmail?: string;
-}
+import { FeedbackSchema } from "../types/Feedback";
 
 const feedbackOptions = [
   { label: "🐞 Bug", value: "bug" },
@@ -24,12 +19,15 @@ function getFeedbackOption(value: string) {
 }
 
 export default defineEventHandler(async (event) => {
-  const { message, contactEmail, feedbackType } = await readBody<Feedback>(event);
+  const { message, page, contact, type } = await readValidatedBody(event, FeedbackSchema.parse);
   const env = useRuntimeConfig(event);
 
-  if (!["bug", "suggestion", "other", "appreciate"].includes(feedbackType!) || !message) {
+  if (!["bug", "suggestion", "other", "appreciate"].includes(type!) || !message)
     throw new Error("Invalid input.");
-  }
+
+  let description = `${message}\n\n`;
+  if (contact) description += `**Contact:** ${contact}`;
+  if (page) description += `**Page:** \`${page}\``;
 
   await fetcher()
     .post(env.WEBHOOK_URL, {
@@ -38,8 +36,8 @@ export default defineEventHandler(async (event) => {
       embeds: [
         {
           color: 3447003,
-          title: getFeedbackOption(feedbackType).label,
-          description: contactEmail ? `${message}\n\n**Contact:** ${contactEmail}` : message,
+          title: getFeedbackOption(type).label,
+          description: description,
         },
       ],
     })
@@ -47,5 +45,5 @@ export default defineEventHandler(async (event) => {
       throw new Error(error);
     });
 
-  return { status: "success" };
+  return { status: "ok" };
 });

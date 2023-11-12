@@ -1,18 +1,14 @@
 <script setup lang="ts">
 import { reactive, ref } from "vue";
+import { useRoute } from "vitepress";
+import type { FeedbackType } from "../../types/Feedback";
 
-interface Feedback {
-  message: string;
-  feedbackType?: string;
-  contactEmail?: string;
-  anonymous: boolean;
-}
-
-const loading = ref(false);
+const loading = ref<boolean>(false);
 const error = ref<unknown>(null);
-const success = ref(false);
+const success = ref<boolean>(false);
+const { path } = useRoute();
 
-const feedback = reactive<Feedback>({ message: "", anonymous: false, contactEmail: "" });
+const feedback = reactive<FeedbackType>({ message: "", contact: "" });
 
 const feedbackOptions = [
   { label: "🐞 Bug", value: "bug" },
@@ -31,18 +27,17 @@ function getFeedbackOption(value: string) {
   return feedbackOptions.find((option) => option.value === value);
 }
 
-async function handleSubmit(type?: string) {
-  if (type) feedback.feedbackType = type as string;
+async function handleSubmit(type?: FeedbackType["type"]) {
+  if (type) feedback.type = type;
   loading.value = true;
 
-  const body: Feedback = {
+  const body: FeedbackType = {
     message: feedback.message,
-    feedbackType: feedback.feedbackType,
-    anonymous: feedback.anonymous,
-    contactEmail: feedback.contactEmail,
+    type: feedback.type,
+    contact: feedback.contact,
+    page: path,
   };
 
-  // TODO: fix this horror?
   try {
     const response = await fetch("https://feedback.tasky.workers.dev", {
       method: "POST",
@@ -72,42 +67,33 @@ async function handleSubmit(type?: string) {
 <template>
   <div class="wrapper">
     <Transition name="fade" mode="out-in">
-      <div v-if="!feedback.feedbackType" class="step">
+      <div v-if="!feedback.type" class="step">
         <div>
-          <div>
+                  <div>
             <p class="heading">Feedback</p>
           </div>
         </div>
         <div class="button-container">
-          <button
-            v-for="item in feedbackOptions"
-            :key="item.value"
-            class="btn"
-            @click="handleSubmit(item.value)">
+          <button v-for="item in feedbackOptions" :key="item.value" class="btn"
+            @click="handleSubmit(item.value as FeedbackType['type'])">
             <span>{{ item.label }}</span>
-          </button>
+                 </button>
         </div>
       </div>
-      <div v-else-if="feedback.feedbackType && !success" class="step">
+       <div v-else-if="feedback.type && !success" class="step">
         <div>
-          <p class="desc">The wiki is...</p>
+          <p class="desc">The wiki is... • {{ path }}</p>
           <div>
-            <span>{{ getFeedbackOption(feedback.feedbackType)?.label }}</span>
-            <button
-              style="margin-left: 0.5rem"
-              class="btn"
-              @click="feedback.feedbackType = undefined">
+            <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
+            <button style="margin-left: 0.5rem" class="btn" @click="feedback.type = undefined">
               <span class="i-carbon-close-large">close</span>
             </button>
-          </div>
+              </div>
         </div>
         <textarea v-model="feedback.message" autofocus class="input" />
         <p class="desc">Contacts, so we can get back to you. (Optional)</p>
-        <textarea v-model="feedback.contactEmail" class="contact-input" />
-        <button
-          class="btn btn-primary"
-          :disabled="feedback.message.length > 10"
-          @click="handleSubmit()">
+        <textarea v-model="feedback.contact" class="contact-input" />
+        <button type="submit" class="btn btn-primary" :disabled="feedback.message.length > 10" @click="handleSubmit()">
           Submit
         </button>
       </div>
@@ -119,7 +105,7 @@ async function handleSubmit(type?: string) {
 </template>
 
 <style scoped>
-.step > * + * {
+.step>*+* {
   margin-top: 1rem;
 }
 
