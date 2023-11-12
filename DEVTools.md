@@ -468,6 +468,7 @@
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
+* [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
 * [Responsively](https://responsively.app/) - Responsive Dev Design Tool
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
@@ -780,7 +781,7 @@
 
 ## ▷ Game Dev Tools
 
-* 🌐 **[Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev)**, [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://github.com/rafaskb/awesome-libgdx) or [VG resource](https://www.vg-resource.com/) - Game Development Resources
+* 🌐 **[Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev)**, [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://libgdx.com/) / Resources](https://github.com/rafaskb/awesome-libgdx) or [VG resource](https://www.vg-resource.com/) - Game Development Resources
 * 🌐 **[Awesome-One-Person-Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
 * ↪️ **[Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)**
 * ↪️ **[3D Models / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
@@ -800,7 +801,7 @@
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
 * [stencyl](https://www.stencyl.com/) - Codeless Game Engine
 * [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with Javascript
-* [Superpowers](https://sparklinlabs.itch.io/superpowers) - Collaborative HTML5 Game Creator
+* [Superpowers](https://sparklinlabs.itch.io/superpowers). [2](https://superpowers-html5.com/index.en.html) - Collaborative HTML5 Game Creator
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework 
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [APlayer](https://github.com/DIYgod/APlayer) - HTML Audio Player
@@ -927,6 +928,7 @@
 * [git](https://git-scm.com/) - Version Control System
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Managers
+* [Meld](https://meldmerge.org/) - Git Visual Diff / Merge Tool
 * [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
 * [Onefetch](https://github.com/o2sh/onefetch) - Git Repo Summary in Terminal
 * [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor 
@@ -1263,7 +1265,7 @@
 * [typeset](https://typeset.lllllllllllllllll.com/) - HTML Typography Pre-Processor
 * [HTMLColorCodes](https://htmlcolorcodes.com/) - HTML Color Codes
 * [Checkbox Land](https://www.bryanbraun.com/checkboxland/) - Render Anything as HTML Checkboxes
-* [GDevelop](https://gdevelop.io/) - HTML5 Game Creator
+* [Capsaicin](https://gpuopen.com/capsaicin/) - Direct3D12 Framework
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [pup](https://github.com/ericchiang/pup) - HTML Processing CLI

@@ -94,7 +94,7 @@
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
 * ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
-* ⭐ **[NovelWriter](https://novelwriter.io/)** - Markdown Style Novel Editor
+* ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)** - Bulk Text Editor
 * [Deardiary AI](https://deardiary.ai/) - Generate Songs for Journal Entries
 * [ChecklistGenerator](https://checklistgenerator.co/) - Checklist Generator
@@ -120,6 +120,7 @@
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
+* [STARC](https://starc.app/) - Screen Writing Tool
 * [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
 * [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/) or [WorldAnvil](https://www.worldanvil.com/) - Fantasy Writing Generators
 * [Glossary Generator](https://www.jamesmurdo.com/glossary_generator.html) - Generate Glossaries
@@ -490,7 +491,7 @@
 * [LightHost](https://github.com/rolandoislas/LightHost) - VST / AU Host
 * [OPUS](https://opus-codec.org/) - Audio Codec / [Bitrate Optimization](https://github.com/master-of-zen/BOPUS)
 * [AQ](https://github.com/rxi/aq) - Audio Tool Creator
-* [AirPods Dirty Secret](https://kenp.io/airpods-dirty-secret/) - AirPod Repair Directory
+* [AirPods Dirty Secret](https://docs.kenp.io/) - AirPods Repair Directory
 
 ***
 

@@ -26,7 +26,6 @@
 * [Rocumentaries](https://rocumentaries.com/)
 * [WatchDocumentaries](https://watchdocumentaries.com/)
 * [Cinetimes](https://cinetimes.org/en/)
-* [Docur](https://docur.co/)
 * [ThoughtMaybe](https://thoughtmaybe.com/)
 * [PBS](https://www.pbs.org/video/)
 * [Folkstreams](https://www.folkstreams.net/)
@@ -35,7 +34,6 @@
 * [Smithsonian Channel](https://www.smithsonianchannel.com/) - Each Series' First Episode is Free
 * [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
 * [Open-Video](https://open-video.org/)
-* [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
 * [Nebula's Essence](https://idoiso.in/nebula) - Nebula / Curiosity Documentaries / [Divolt](https://isoneb.divolt.xyz) / [Discord](https://discord.com/invite/HvrQefs3Cw)
 * [Videoneat](https://www.videoneat.com/)
 * [MVGroup](https://forums.mvgroup.org/)
@@ -634,7 +632,7 @@
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - Music Score Viewer
-* [NoteFlight](https://noteflight.com/), [MCMusicEditor](https://www.mcmusiceditor.com/), [Flat](https://flat.io/), [FinaleMusic](https://www.finalemusic.com/products/notepad/), [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/), [MuseScore](https://musescore.org/en/download), [canorus](https://github.com/canorusmusic/canorus), [MusicWorks](https://www.tierramedia.com/), [Notasi Angka](https://sourceforge.net/projects/notasi-angka/) or [Trinket](https://trinket.io/) - Create / Share Music Scores
+* [NoteFlight](https://noteflight.com/), [MCMusicEditor](https://www.mcmusiceditor.com/), [Flat](https://flat.io/), [FinaleMusic](https://www.finalemusic.com/products/notepad/), [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/), [MuseScore](https://musescore.org/en/download), [canorus](https://github.com/canorusmusic/canorus), [MusicWorks](https://www.tierramedia.com/), [Chordly](https://chordly.co.uk/), [Notasi Angka](https://sourceforge.net/projects/notasi-angka/) or [Trinket](https://trinket.io/) - Create / Share Music Scores
 * [Access Music](https://accessmusic.sourceforge.net/) - Create Music Scores for Blind Users
 * [The ABC Music Project](https://abc.sourceforge.net/) - Plain Text Music Notation / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/)
 * [Audiveris](https://audiveris.github.io/audiveris/), [Oemer](https://github.com/BreezeWhite/oemer) / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb), [transcription](https://github.com/superfonic/transcription), [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart), [AutoAudio](https://github.com/EricaNguyen/AutoAudio), [notetrainerpro](https://sourceforge.net/projects/notetrainerpro/) or [Soundslice](https://www.soundslice.com/transcribe/) - Transcribe Music Sheets / [GitHub](https://github.com/Audiveris/audiveris)
