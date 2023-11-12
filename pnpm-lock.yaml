@@ -10,6 +10,9 @@ patchedDependencies:
     path: patches/vitepress@1.0.0-rc.25.patch
 
 dependencies:
+  '@headlessui/vue':
+    specifier: ^1.7.16
+    version: 1.7.16(vue@3.3.7)
   '@resvg/resvg-js':
     specifier: ^2.6.0
     version: 2.6.0
@@ -1806,6 +1809,15 @@ packages:
   /@fastify/busboy@2.0.0:
     resolution: {integrity: sha512-JUFJad5lv7jxj926GPgymrWQxxjPYuJNiNjNMzqT+HiuP6Vl3dk5xzG+8sTX96np0ZAluvaMzPsjhHZ5rNuNQQ==}
     engines: {node: '>=14'}
+    dev: false
+
+  /@headlessui/vue@1.7.16(vue@3.3.7):
+    resolution: {integrity: sha512-nKT+nf/q6x198SsyK54mSszaQl/z+QxtASmgMEJtpxSX2Q0OPJX0upS/9daDyiECpeAsvjkoOrm2O/6PyBQ+Qg==}
+    engines: {node: '>=10'}
+    peerDependencies:
+      vue: ^3.2.0
+    dependencies:
+      vue: 3.3.7
     dev: false
 
   /@iconify-json/carbon@1.1.21:
