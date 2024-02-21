@@ -21,7 +21,6 @@ export const search: DefaultTheme.Config['search'] = {
       searchOptions: {
         combineWith: 'AND',
         fuzzy: false,
-        // @ts-ignore
         boostDocument: (
           _,
           term,
