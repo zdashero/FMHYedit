@@ -55,8 +55,12 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
   }
 ]
 
+// TODO: make this less ugly
 export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
-  { text: '📛 Adblocking / Privacy', link: '/adblockvpnguide' },
+  {
+    text: '<span class="i-twemoji-name-badge"></span> Adblocking / Privacy',
+    link: '/adblockvpnguide'
+  },
   { text: '🤖 Artificial Intelligence', link: '/ai' },
   { text: '📺 Movies / TV / Anime', link: '/videopiracyguide' },
   { text: '🎵 Music / Podcasts / Radio', link: '/audiopiracyguide' },
