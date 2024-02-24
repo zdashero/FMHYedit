@@ -56,14 +56,13 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
   }
 ]
 
-// TODO: make this less ugly
 export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
   {
-    text: '<span class="i-twemoji-name-badge"></span> Adblocking / Privacy',
+    text: '<span class="i-twemoji:name-badge"></span> Adblocking / Privacy',
     link: '/adblockvpnguide'
   },
   {
-    text: '<span class="i-twemoji-robot"></span> Artificial Intelligence',
+    text: '<span class="i-twemoji:robot"></span> Artificial Intelligence',
     link: '/ai'
   },
   {
@@ -71,27 +70,27 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     link: '/videopiracyguide'
   },
   {
-    text: '<span class="i-twemoji-musical-note"></span> Music / Podcasts / Radio',
+    text: '<span class="i-twemoji:musical-note"></span> Music / Podcasts / Radio',
     link: '/audiopiracyguide'
   },
   {
-    text: '<span class="i-twemoji-video-game"></span> Gaming / Emulation',
+    text: '<span class="i-twemoji:video-game"></span> Gaming / Emulation',
     link: '/gamingpiracyguide'
   },
   {
-    text: '<span class="i-twemoji-green-book"></span> Books / Comics / Manga',
+    text: '<span class="i-twemoji:green-book"></span> Books / Comics / Manga',
     link: '/readingpiracyguide'
   },
   {
-    text: '<span class="i-twemoji-floppy-disk"></span> Downloading',
+    text: '<span class="i-twemoji:floppy-disk"></span> Downloading',
     link: '/downloadpiracyguide'
   },
   {
-    text: '<span class="i-twemoji-cyclone"></span> Torrenting',
+    text: '<span class="i-twemoji:cyclone"></span> Torrenting',
     link: '/torrentpiracyguide'
   },
   {
-    text: '<span class="i-twemoji-brain"></span> Educational',
+    text: '<span class="i-twemoji:brain"></span> Educational',
     link: '/edupiracyguide'
   },
   {
@@ -99,7 +98,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     link: '/android-iosguide'
   },
   {
-    text: '<span class="i-twemoji-penguin"></span> Linux / MacOS',
+    text: '<span class="i-twemoji:penguin"></span> Linux / MacOS',
     link: '/linuxguide'
   },
   {
@@ -107,36 +106,75 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     link: '/non-english'
   },
   {
-    text: '<span class="i-twemoji:open-file-folder"></span> Miscellaneous',
+    text: '<span class="i-twemoji:file-folder"></span> Miscellaneous',
     link: '/miscguide'
   },
   {
-    text: '🔧 Tools',
+    text: '<span class="i-twemoji:wrench"></span> Tools',
     collapsed: false,
     items: [
-      { text: '💻 System Tools', link: '/system-tools' },
-      { text: '🗃️ File Tools', link: '/file-tools' },
-      { text: '🔗 Internet Tools', link: '/internet-tools' },
-      { text: '💬 Social Media Tools', link: '/social-media-tools' },
-      { text: '📝 Text Tools', link: '/text-tools' },
-      { text: '👾 Gaming Tools', link: '/gamingpiracyguide#gaming-tools' },
-      { text: '📷 Image Tools', link: '/img-tools' },
-      { text: '📼 Video Tools', link: '/video-tools' },
-      { text: '🔊 Audio Tools', link: '/audiopiracyguide#audio-tools' },
       {
-        text: '🍎 Educational Tools',
+        text: '<span class="i-twemoji:laptop"></span> System Tools',
+        link: '/system-tools'
+      },
+      {
+        text: '<span class="i-twemoji:card-file-box"></span> File Tools',
+        link: '/file-tools'
+      },
+      {
+        text: '<span class="i-twemoji:paperclip"></span> Internet Tools',
+        link: '/internet-tools'
+      },
+      {
+        text: '<span class="i-twemoji:left-speech-bubble"></span> Social Media Tools',
+        link: '/social-media-tools'
+      },
+      {
+        text: '<span class="i-twemoji:memo"></span> Text Tools',
+        link: '/text-tools'
+      },
+      {
+        text: '<span class="i-twemoji:alien-monster"></span> Gaming Tools',
+        link: '/gamingpiracyguide#gaming-tools'
+      },
+      {
+        text: '<span class="i-twemoji:camera"></span> Image Tools',
+        link: '/img-tools'
+      },
+      {
+        text: '<span class="i-twemoji:videocassette"></span> Video Tools',
+        link: '/video-tools'
+      },
+      {
+        text: '<span class="i-twemoji:speaker-high-volume"></span> Audio Tools',
+        link: '/audiopiracyguide#audio-tools'
+      },
+      {
+        text: '<span class="i-twemoji:red-apple"></span> Educational Tools',
         link: '/edupiracyguide#educational-tools'
       },
-      { text: '👨‍💻 Developer Tools', link: '/devtools' }
+      {
+        text: '<span class="i-twemoji:man-technologist"></span> Developer Tools',
+        link: '/devtools'
+      }
     ]
   },
   {
-    text: '➕️ More',
+    text: '<span class="i-twemoji:plus"></span> More',
     collapsed: true,
     items: [
-      { text: '🔞 NSFW', link: '/nsfwpiracy' },
-      { text: '⚠️ Unsafe Sites', link: '/unsafesites' },
-      { text: '📦 Storage', link: '/storage' }
+      {
+        text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
+        link: '/nsfwpiracy'
+      },
+      {
+        text: '<span class="i-twemoji:warning"></span> Unsafe Sites',
+        link: '/unsafesites'
+      },
+      {
+        text: '<span class="i-twemoji:package"></span> Storage',
+        link: '/storage'
+      }
     ]
   }
 ]
