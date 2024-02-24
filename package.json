@@ -1,44 +1,16 @@
 {
-  "name": "fmhy",
-  "type": "module",
+  "name": "@fmhy/monorepo",
   "packageManager": "pnpm@8.15.1",
+  "engines": {
+    "node": "21.6.2"
+  },
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview",
-    "api:prepare": "nitropack prepare",
-    "api:dev": "nitropack dev",
-    "api:build": "nitropack build",
-    "api:preview": "node .output/server/index.mjs",
     "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
     "format": "prettier -w --cache --check .",
-    "lint": "eslint .vitepress -f pretty --cache",
-    "postinstall": "nitropack prepare"
-  },
-  "dependencies": {
-    "@headlessui/vue": "^1.7.17",
-    "@resvg/resvg-js": "^2.6.0",
-    "vitepress": "npm:@taskylizard/vitepress@1.0.10",
-    "consola": "^3.2.3",
-    "feed": "^4.2.2",
-    "fs-extra": "^11.2.0",
-    "itty-fetcher": "^0.9.4",
-    "nitro-cors": "^0.7.0",
-    "nitropack": "latest",
-    "nprogress": "^0.2.0",
-    "pathe": "^1.1.2",
-    "unocss": "^0.58.4",
-    "vue": "^3.4.15",
-    "x-satori": "^0.1.5",
-    "zod": "^3.22.4"
+    "lint": "eslint .vitepress -f pretty --cache"
   },
   "devDependencies": {
-    "@iconify-json/carbon": "^1.1.28",
-    "@iconify-json/twemoji": "^1.1.15",
     "@taskylizard/eslint-config": "^1.1.1",
-    "@types/fs-extra": "^11.0.4",
-    "@types/node": "^20.11.15",
-    "@types/nprogress": "^0.2.3",
     "eslint": "^8.56.0",
     "prettier": "^3.2.4"
   }

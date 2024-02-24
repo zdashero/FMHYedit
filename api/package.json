@@ -1,0 +1,19 @@
+{
+  "name": "@fmhy/api",
+  "version": "1.0.0",
+  "description": "FMHY API.",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "nitropack prepare",
+    "dev": "nitropack dev",
+    "build": "nitropack build",
+    "preview": "node .output/server/index.mjs",
+    "postinstall": "nitropack prepare"
+  },
+  "dependencies": {
+    "itty-fetcher": "^0.9.4",
+    "nitro-cors": "^0.7.0",
+    "nitropack": "latest"
+  },
+  "author": "taskylizard <taskylizard@fmhy.net>"
+}
