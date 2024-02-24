@@ -62,18 +62,54 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     text: '<span class="i-twemoji-name-badge"></span> Adblocking / Privacy',
     link: '/adblockvpnguide'
   },
-  { text: '🤖 Artificial Intelligence', link: '/ai' },
-  { text: '📺 Movies / TV / Anime', link: '/videopiracyguide' },
-  { text: '🎵 Music / Podcasts / Radio', link: '/audiopiracyguide' },
-  { text: '🎮 Gaming / Emulation', link: '/gamingpiracyguide' },
-  { text: '📗 Books / Comics / Manga', link: '/readingpiracyguide' },
-  { text: '💾 Downloading', link: '/downloadpiracyguide' },
-  { text: '🌀 Torrenting', link: '/torrentpiracyguide' },
-  { text: '🧠 Educational', link: '/edupiracyguide' },
-  { text: '📱 Android / iOS', link: '/android-iosguide' },
-  { text: '🐧 Linux / MacOS', link: '/linuxguide' },
-  { text: '🌍 Non-English', link: '/non-english' },
-  { text: '📂 Miscellaneous', link: '/miscguide' },
+  {
+    text: '<span class="i-twemoji-robot"></span> Artificial Intelligence',
+    link: '/ai'
+  },
+  {
+    text: '<span class="i-twemoji:television"></span> Movies / TV / Anime',
+    link: '/videopiracyguide'
+  },
+  {
+    text: '<span class="i-twemoji-musical-note"></span> Music / Podcasts / Radio',
+    link: '/audiopiracyguide'
+  },
+  {
+    text: '<span class="i-twemoji-video-game"></span> Gaming / Emulation',
+    link: '/gamingpiracyguide'
+  },
+  {
+    text: '<span class="i-twemoji-green-book"></span> Books / Comics / Manga',
+    link: '/readingpiracyguide'
+  },
+  {
+    text: '<span class="i-twemoji-floppy-disk"></span> Downloading',
+    link: '/downloadpiracyguide'
+  },
+  {
+    text: '<span class="i-twemoji-cyclone"></span> Torrenting',
+    link: '/torrentpiracyguide'
+  },
+  {
+    text: '<span class="i-twemoji-brain"></span> Educational',
+    link: '/edupiracyguide'
+  },
+  {
+    text: '<span class="i-twemoji:mobile-phone"></span> Android / iOS',
+    link: '/android-iosguide'
+  },
+  {
+    text: '<span class="i-twemoji-penguin"></span> Linux / MacOS',
+    link: '/linuxguide'
+  },
+  {
+    text: '<span class="i-twemoji:globe-showing-asia-australia"></span> Non-English',
+    link: '/non-english'
+  },
+  {
+    text: '<span class="i-twemoji:open-file-folder"></span> Miscellaneous',
+    link: '/miscguide'
+  },
   {
     text: '🔧 Tools',
     collapsed: false,
