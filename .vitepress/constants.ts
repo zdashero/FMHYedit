@@ -1,4 +1,5 @@
 import type { DefaultTheme } from 'vitepress'
+// @unocss-include
 
 export const meta = {
   name: 'freemediaheckyeah',
