@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "lint": "eslint --cache --fix ."
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.17",

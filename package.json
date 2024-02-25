@@ -6,8 +6,7 @@
   },
   "scripts": {
     "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
-    "format": "prettier -w --cache --check .",
-    "lint": "eslint .vitepress -f pretty --cache"
+    "format": "prettier -w --cache --check ."
   },
   "devDependencies": {
     "@taskylizard/eslint-config": "^1.1.1",
