@@ -41,7 +41,7 @@ const authors = computed(() =>
 <template>
   <div class="flex flex-wrap gap-4 pt-2">
     <div v-for="(c, index) of authors" class="flex gap-2 items-center">
-      <img :src="`${c.github}.png`" class="w-8 h-8 rounded-full" />
+      <img :src="`${c.github}.png`" class="w-8 h-8 rounded-full" >
       <a :href="c.github">{{ c.name }}</a>
       <span v-if="index < authors.length - 1">•</span>
     </div>

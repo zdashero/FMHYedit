@@ -13,12 +13,11 @@
     "api:prepare": "pnpm -F api prepare",
     "api:preview": "pnpm -F api preview",
     "format": "prettier -w --cache --check .",
+    "og:dev": "pnpm -F docs og",
     "lint": "pnpm --parallel -R lint",
     "postinstall": "pnpm -F api types"
   },
   "devDependencies": {
-    "@taskylizard/eslint-config": "^1.1.1",
-    "eslint": "^8.56.0",
     "prettier": "^3.2.4"
   }
 }

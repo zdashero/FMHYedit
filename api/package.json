@@ -1,19 +1,24 @@
 {
   "name": "@fmhy/api",
   "version": "1.0.0",
+  "type": "module",
   "description": "FMHY API.",
-  "main": "index.js",
   "scripts": {
     "prepare": "nitropack prepare",
     "dev": "nitropack dev",
     "build": "nitropack build",
     "preview": "node .output/server/index.mjs",
-    "types": "nitropack prepare"
+    "types": "nitropack prepare",
+    "lint": "eslint --cache -f pretty routes types middleware nitro.config.ts"
   },
   "dependencies": {
     "itty-fetcher": "^0.9.4",
     "nitro-cors": "^0.7.0",
     "nitropack": "latest"
+  },
+  "devDependencies": {
+    "@taskylizard/eslint-config": "^1.1.1",
+    "eslint": "^8.56.0"
   },
   "author": "taskylizard <taskylizard@fmhy.net>"
 }

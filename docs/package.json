@@ -6,8 +6,8 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
-    "lint": "eslint --cache --fix .",
-    "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
+    "lint": "eslint --cache -f pretty .",
+    "og": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.17",
@@ -24,6 +24,8 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
+    "@taskylizard/eslint-config": "^1.1.1",
+    "eslint": "^8.56.0",
     "@iconify-json/carbon": "^1.1.28",
     "@iconify-json/twemoji": "^1.1.15",
     "@types/fs-extra": "^11.0.4",
