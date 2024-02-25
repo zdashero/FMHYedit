@@ -6,7 +6,8 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
-    "lint": "eslint --cache --fix ."
+    "lint": "eslint --cache --fix .",
+    "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.17",

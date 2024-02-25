@@ -5,7 +5,7 @@ import {
   type FeedbackType,
   getFeedbackOption,
   feedbackOptions
-} from '../../types/Feedback'
+} from '../../../../api/types/Feedback'
 
 const loading = ref<boolean>(false)
 const error = ref<unknown>(null)

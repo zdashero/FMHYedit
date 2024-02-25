@@ -5,8 +5,16 @@
     "node": "21.6.2"
   },
   "scripts": {
-    "og:dev": "x-satori -t ./.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev",
-    "format": "prettier -w --cache --check ."
+    "docs:dev": "pnpm -F docs dev",
+    "docs:build": "pnpm -F docs build",
+    "docs:preview": "pnpm -F docs serve",
+    "api:dev": "pnpm -F api dev",
+    "api:build": "pnpm -F api build",
+    "api:prepare": "pnpm -F api prepare",
+    "api:preview": "pnpm -F api preview",
+    "format": "prettier -w --cache --check .",
+    "lint": "pnpm --parallel -R lint",
+    "postinstall": "pnpm -F api types"
   },
   "devDependencies": {
     "@taskylizard/eslint-config": "^1.1.1",
