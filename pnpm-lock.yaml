@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@fmhy/colors':
+    specifier: ^0.0.10
+    version: 0.0.10
   '@headlessui/vue':
     specifier: ^1.7.17
     version: 1.7.17(vue@3.4.15)
@@ -1064,6 +1067,11 @@ packages:
   /@fastify/busboy@2.0.0:
     resolution: {integrity: sha512-JUFJad5lv7jxj926GPgymrWQxxjPYuJNiNjNMzqT+HiuP6Vl3dk5xzG+8sTX96np0ZAluvaMzPsjhHZ5rNuNQQ==}
     engines: {node: '>=14'}
+    dev: false
+
+  /@fmhy/colors@0.0.10:
+    resolution: {integrity: sha512-iie+ZqDTbDesUACCNX6xE2SEYD8jdU5Jh4wYgoyHHsLtaxzbX1Tc2jUzG6Mn10kdPFXV04RChELSRlglv128Xg==}
+    engines: {node: '>=18.16.1'}
     dev: false
 
   /@headlessui/vue@1.7.17(vue@3.4.15):

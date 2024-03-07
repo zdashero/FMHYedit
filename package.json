@@ -16,9 +16,9 @@
     "postinstall": "nitropack prepare"
   },
   "dependencies": {
+    "@fmhy/colors": "^0.0.10",
     "@headlessui/vue": "^1.7.17",
     "@resvg/resvg-js": "^2.6.0",
-    "vitepress": "npm:@taskylizard/vitepress@1.0.10",
     "consola": "^3.2.3",
     "feed": "^4.2.2",
     "fs-extra": "^11.2.0",
@@ -28,6 +28,7 @@
     "nprogress": "^0.2.0",
     "pathe": "^1.1.2",
     "unocss": "^0.58.4",
+    "vitepress": "npm:@taskylizard/vitepress@1.0.10",
     "vue": "^3.4.15",
     "x-satori": "^0.1.5",
     "zod": "^3.22.4"
