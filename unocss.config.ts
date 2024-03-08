@@ -1,4 +1,10 @@
-import { defineConfig, presetUno, presetAttributify, presetIcons } from 'unocss'
+import {
+  defineConfig,
+  presetUno,
+  presetAttributify,
+  presetIcons,
+  transformerDirectives
+} from 'unocss'
 import { colors, shortcuts } from '@fmhy/colors'
 
 export default defineConfig({
@@ -7,7 +13,7 @@ export default defineConfig({
   },
   theme: {
     colors: {
-      colors,
+      ...colors,
       primary: 'var(--vp-c-brand-1)',
       bg: 'var(--vp-c-bg)',
       'bg-alt': 'var(--vp-c-bg-alt)',
@@ -28,5 +34,6 @@ export default defineConfig({
         'vertical-align': 'middle'
       }
     })
-  ]
+  ],
+  transformers: [transformerDirectives()]
 })

@@ -1,9 +1,9 @@
 :root {
   /* Colors: Brand */
-  --vp-c-brand-1: #7bc5e4;
-  --vp-c-brand-2: #c4e2f2;
-  --vp-c-brand-3: #4882a7;
-  --vp-c-brand-soft: #a4d5ec;
+  --vp-c-brand-1: theme('colors.swarm.400');
+  --vp-c-brand-2: theme('colors.swarm.500');
+  --vp-c-brand-3: theme('colors.swarm.700');
+  --vp-c-brand-soft: theme('colors.swarm.300');
 
   /* Colors: Button */
   --vp-button-brand-bg: var(--vp-c-brand-1);
@@ -57,10 +57,10 @@
   --vp-custom-block-info-border: #3686b1;
   --vp-custom-block-info-text: #52b0e3;
   --vp-custom-block-info-text-deep: #00b7ff;
-  --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1);
-  --vp-custom-block-tip-border: rgba(4, 120, 87, 1);
-  --vp-custom-block-tip-text: rgb(25, 190, 129);
-  --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1);
+  --vp-custom-block-tip-bg: theme('colors.pastel-green.950');
+  --vp-custom-block-tip-border: theme('colors.pastel-green.800');
+  --vp-custom-block-tip-text: theme('colors.pastel-green.200');
+  --vp-custom-block-tip-text-deep: theme('colors.pastel-green.500');
   --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
   --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
   --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
