@@ -6,7 +6,7 @@
 # ► Spotify Clients
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
-* [SpoTube](https://spotube.netlify.app/), [2](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client / [GitHub](https://github.com/KRTirtho/spotube)
+* [SpoTube](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client / [GitHub](https://github.com/KRTirtho/spotube)
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
 * [Spotify Web Client](https://open.spotify.com/) / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
@@ -94,7 +94,7 @@
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git)
+* [Deezer](https://www.deezer.com/) - Streaming
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
@@ -718,7 +718,7 @@
 * [Ossia](https://ossia.io/) - Intermedia Sequencer
 * [Sequencer](https://sequencer.henryfellerhoff.com/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
 * [Petaporon](https://pixwlk.itch.io/petaporon) or [OnlineSequencer](https://onlinesequencer.net/) - Piano Sequencers / [Editor](https://pixwlk.itch.io/petaporon-editor)
-* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://adventuremachine.4thfloorcreative.co.uk//) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
+* [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://adventuremachine.4thfloorcreative.co.uk/) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
 * [JummBox](https://jummbus.bitbucket.io/), [Furnace](https://github.com/tildearrow/furnace), [Pata Tracker](https://pixwlk.itch.io/pata-tracker) or [Klystrack](https://github.com/kometbomb/klystrack) - Chiptune Music Creators
 * [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Acid Techno Machine
 * [Mixxx](https://mixxx.org/) or [Serato](https://serato.com/) - DJ Software

@@ -564,7 +564,6 @@
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [Teleport](https://teleport.org/) - Compare Salaries, Cities and Cost of Living
 * [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
 * [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
@@ -1183,7 +1182,7 @@
 * [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Vote on Different Trolley Problem Versions
 * [WhereShouldILive?](https://www.whereshouldilive.co/) - Find Out Where You Should Live
 * [Chirper](https://chirper.ai/) - AI Generated Twitter
-* [Judge My Music](https://pudding.cool/2021/10/judge-my-music//) - Have an AI Judge Your Taste in Music
+* [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - Help Teach a Machine How to Talk 
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
 * [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions
@@ -1244,7 +1243,7 @@
 * [Gizoogle](https://www.gizoogle.net/) - Google Shiznit
 * [Mystery Search](https://www.mysterysearch.lol/) - Google, but you get last person's search
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
-* [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
+* [WindowSwap](https://www.window-swap.com/Window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 * [Judgey](https://playjudgey.com/) - Judge A Book By Its Cover
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light

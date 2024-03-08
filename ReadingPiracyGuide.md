@@ -51,8 +51,8 @@
 * ↪️ **[Telegram Ebook Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)**
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)**, [2](https://annas-archive.gs/), [3](https://annas-archive.se/) - Books / Comics / Educational
 * ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
-* ⭐ **[Z-Library](https://singlelogin.re/)** or [zlibrary-redirect](https://zlibrary-redirect.se/) - Books / Comics / Educational
-* ⭐ **Z-Lib Tools** - [Desktop / Extensions](https://go-to-zlibrary.se/) / [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
+* ⭐ **[Z-Library](https://singlelogin.re/)** - Books / Comics / Educational
+* ⭐ **Z-Lib Tools** - [Desktop / Extensions](https://go-to-zlibrary.se/) / [Megathread](https://redd.it/zx6z62) / [.Onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Liber3](https://liber3.eth.limo/)** - Books
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics / [User Ranks](https://pastebin.com/pZuuMxYm)
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)
@@ -176,7 +176,7 @@
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
 * [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
-* [Summa Theologiae](https://drbo.org/summa//) - Religion / Sacred Doctrine / Christianity
+* [Summa Theologiae](https://drbo.org/summa/) - Religion / Sacred Doctrine / Christianity
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
 * [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
 * [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
@@ -299,7 +299,6 @@
 * [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
 * [Liberation School](https://liberationschool.org/) - Communism
 * [Red Texts](https://redtexts.org/) - Communism
-* [marxist.space](https://marxist.space/) - Communism
 * [Communism Essays / FAQs](https://github.com/dessalines/essays) - Communism
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
 * [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
@@ -465,7 +464,7 @@
 * [goalkicker](https://goalkicker.com/)
 * [ebooks](https://github.com/XWHQSJ/ebooks)
 * [GoalKicker](https://books.goalkicker.com/)
-* [Flavio Copes](https://flaviocopes.com//)
+* [Flavio Copes](https://flaviocopes.com/)
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
 * [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/)
 * [free-python-books](https://github.com/pamoroso/free-python-books)
@@ -639,7 +638,6 @@
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
 * [WallComic](https://wallcomic.com/)
-* [Comics Online](https://www.comicsonline.io/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
 * [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
 * [British Comics](https://britishcomics.wordpress.com/) - Classic British Comics
@@ -653,7 +651,7 @@
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
-* [Cover](https://frenchfrysoftware.com/cover//), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
+* [Cover](https://frenchfrysoftware.com/cover/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free)
 * [ComicFury](https://comicfury.com/) - User-Made Comics
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
@@ -716,7 +714,7 @@
 * [ReadOPM](https://ww3.readopm.com/read-manga/)
 * [MangaEffect](https://mangaeffect.com/)
 * [Manga Home](https://www.mangahome.com/)
-* [Mangaski](https://www.mangasaki.net//)
+* [Mangaski](https://www.mangasaki.net/)
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [MangaJar](https://mangajar.pro/)
 * [GodManga](https://godamanga.art/)
@@ -987,7 +985,7 @@
 * ↪️ **[Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Metadata Automatically
-* ⭐ **[Foxit](https://www.foxit.com/pdf-reader//)** - PDF Reader / PC / Android / iOS / Linux / Mac
+* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * ⭐ **[Koodo](https://koodo.960960.xyz/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF / PC 
