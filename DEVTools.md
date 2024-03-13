@@ -53,8 +53,11 @@
 * [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
+* [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
+* [EggHead](https://egghead.io/) - Programming Courses
+* [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [Goldfish](https://goldfish-app-5igcw.ondigitalocean.app/) - Programming Courses
-* [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
+* [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
 * [CodeWell](https://www.codewell.cc/) or [CodeTriage](https://www.codetriage.com/) - Learn Coding by Building Projects
 * [Codecademy](https://www.codecademy.com/) - Coding Lessons
@@ -67,6 +70,7 @@
 * [soft-eng-interview-prep](https://github.com/orrsella/soft-eng-interview-prep) - Software Engineer Interview Preparation
 * [cs1000](https://cs1000.surge.sh/) - CS / Software Engineering
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Large Scale System Design Guides
+* [LearnToCloud](https://learntocloud.guide/) - Cloud Computing Guide
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
 * [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
 * [Learn Perl](https://www.learn-perl.org/) - Learn Perl
@@ -99,7 +103,7 @@
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Web Dev Course
 * [Aquent Gymnasium](https://thegymnasium.com/) - Web Dev Tutorials
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
-* [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
+* [Web Skills](https://andreasbm.github.io/web-skills/), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [SVG Tutorial](https://svg-tutorial.com/) - Learn how to code SVG images
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
@@ -124,7 +128,7 @@
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
 * [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [TypeHero](https://typehero.dev/) or [Type Challenges](https://github.com/type-challenges/type-challenges) - TypeScript Exercises / Challenges
-* [Learn Next.js](https://nextjs.org/learn) / [Egghead](https://egghead.io/q/next) / [Production-Grade Next.js](https://frontendmasters.com/courses/production-next/) / [Learn by Examples](https://github.com/vercel/next.js/tree/canary/examples) - Next.js Learning Resources
+* [Learn Next.js](https://nextjs.org/learn) / [Production-Grade Next.js](https://frontendmasters.com/courses/production-next/) / [Learn by Examples](https://github.com/vercel/next.js/tree/canary/examples) - Next.js Learning Resources
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * [Full Stack Solana Development Guide](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
@@ -239,7 +243,7 @@
 * [CyberArsenal](https://cyberarsenal.org/) - Cybersecurity Forums
 * [TheSecMaster](https://twitter.com/TheSecMaster1) - Cybersecurity Twitter
 * [Skills for All](https://skillsforall.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
-* [picoCTF](https://picoctf.org/), [CTF Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/), [CTFLearn](https://ctflearn.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
+* [picoCTF](https://picoctf.org/), [TryHackMe](https://tryhackme.com/), [CTF Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/), [CTFLearn](https://ctflearn.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
@@ -559,6 +563,7 @@
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
 * [Sentora](https://sentora.org/) - Web Hosting Control Panel
 * [SegFault](https://shell.segfault.net/) - Disposable Root Servers
+* [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
@@ -601,7 +606,7 @@
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
 * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) or [A11Project](https://www.a11yproject.com/checklist) - Site Accessibility Guidelines
 * [Color Oracle](https://colororacle.org/), [WhoCanUse](https://www.whocanuse.com/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Tests
-* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
+* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/), [CodSpeed](https://codspeed.io/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
@@ -654,6 +659,7 @@
 * [Webhook.site](https://webhook.site/) - Webhook Tools
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams / [Comparisons](https://text-to-diagram.com/)
 * [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
+* [mingrammer](https://github.com/mingrammer/diagrams) - Diagram as Code / Prototyping 
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [pnpm](https://pnpm.io/) - Node.js Package Manager
@@ -957,7 +963,7 @@
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
 * [Langits](https://langits.davejudd.dev/) - See Most Used Programming Languages User
 * [gitignore.io](https://www.toptal.com/developers/gitignore/) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
-* [Gitea](https://about.gitea.com/) / [2](https://gittea.dev/), [Forgejo](https://forgejo.org/) or [Drift](https://drift.lol/) - Self-Hosted Git Services / Forge
+* [Gitea](https://about.gitea.com/) / [2](https://gittea.dev/), [CDM Project](https://cdm-project.com/), [Forgejo](https://forgejo.org/) or [Drift](https://drift.lol/) - Self-Hosted Git Services / Forge
 
 ***
 
@@ -986,7 +992,7 @@
 * [Serctl](https://d.serctl.com/) - Backup GitHub Projects
 * [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
 * [No Secrets](https://github.com/sourcegraph-community/no-secrets) - Cleanup Sensitive Files in Repos
-* [DownGit](https://minhaskamal.github.io/DownGit) or [Download Directory](https://download-directory.github.io/) - Download GitHub Repository Sub-Folders / Files
+* [DownGit](https://downgit.evecalm.com/) or [Download Directory](https://download-directory.github.io/) - Download GitHub Repository Sub-Folders / Files
 * [Install from GitHub](https://github.com/MaxGyver83/install-from-github) or [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub 
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
@@ -1079,7 +1085,7 @@
 * ⭐ **[grex](https://pemistahl.github.io/grex-js/)**, [Regex Generator++](http://regex.inginf.units.it/) or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
 * [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
-* [Regex101](https://regex101.com/) or [Debuggex](https://www.debuggex.com/) - Regex Editor / Debuggers
+* [Regex101](https://regex101.com/), [Debuggex](https://www.debuggex.com/) or [Cyrilex](https://extendsclass.com/regex-tester.html) - Regex Editor / Debuggers
 * [AutoRegex](https://www.autoregex.xyz/) - AI-based Regex Generator
 * [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms 
@@ -1093,6 +1099,7 @@
 * [Lepton](https://hackjutsu.com/Lepton/) or [Pieces](https://pieces.app/) - Code Snippet Managers
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [Mockaroo](https://mockaroo.com/) - Generate Mock Data
+* [Mockium](https://softwium.com/mockium/) - Generate Test Data
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
@@ -1123,6 +1130,7 @@
 * [pipx](https://github.com/pypa/pipx) - Execute Python Binaries in Isolated Environments
 * [Pytrait](https://github.com/xrudelis/pytrait) - Python Interface Traits
 * [PyPy](https://www.pypy.org/) - Alternate Python Implementation
+* [RustPython](https://github.com/RustPython/RustPython/) - Python Interpreter
 * [Doppler](https://www.doppler.com/) - Sync Environment Variables
 * [AutoCode](https://autocode.com/) - Instant Endpoints
 * [typejuice](https://github.com/galvez/typejuice) - Documentation Generator for TypeScript Declaration Files
@@ -1135,6 +1143,7 @@
 * [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Self-Hosted Copilot Server
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
 * [CodeCapsules](https://codecapsules.io/) - Code Deployment
+* [PKL](https://github.com/apple/pkl) - Generate Static Configurations
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
 * [cpp.sh](https://cpp.sh/) - Online C++ Compiler
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
@@ -1187,6 +1196,7 @@
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [trzsz](https://github.com/trzsz/trzsz.js) - Make trzsz Compatible with tmux in Terminal
 * [Bundlephobia](https://bundlephobia.com/) - Find size cost of Adding npm Package
+* [quicktype](https://app.quicktype.io/) - JSON Parser
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatting
 * [Transluna](https://transluna.net/) - JSON Translator
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
@@ -1248,7 +1258,7 @@
 
 * 🌐 **[Awesome-Livecoding](https://github.com/toplap/awesome-livecoding)** - Livecoding Resources
 * 🌐 **[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)** - Creative Coding Resources
-* 🌐 **[Awesome Python](https://github.com/vinta/awesome-python)** - Python Resources
+* 🌐 **[Awesome Python](https://github.com/vinta/awesome-python)** - Pyapithon Resources
 * 🌐 **[Awesome Javascript](https://github.com/sorrycc/awesome-javascript)** - Javascript Resources
 * 🌐 **[Awesome Go](https://awesome-go.com/)** or [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Resources
 * 🌐 **[Awesome-Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
@@ -1508,6 +1518,7 @@
 * [OpenAIPlayground](https://github.com/nat/openplayground) - LLM Playground
 * [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) or [lollms-webui](https://github.com/ParisNeo/lollms-webui) - Run LLMs Online
 * [sdk.vercel](https://sdk.vercel.ai/) - LLM SDK
+* [LLMos](https://www.llmos.dev/) - LLM API / [Discord](https://discord.com/invite/38c5cxE4Zb)
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization

@@ -86,9 +86,10 @@
 * [LunarCore](https://github.com/Melledy/LunarCore) - Private Honkai: Star Rail Servers
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
+* [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 / MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
 * [VeniceUnleashed - BF3](https://veniceunleashed.net/) or [Warsaw-Revamped - BF4](https://warsaw-revamped.com/) - Battlefield Mod Projects
-* [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
+* [Mega Man Arena](https://www.megamanarena.com/) or [Megaman 2.5D](https://petersjostrand.com/) - Multiplayer Mega Man
 * [OpenRA](https://openra.net/) - Command & Conquer Recreation
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
@@ -112,7 +113,6 @@
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
-* [London 2038](https://london2038.com/) - London 2038 Multiplayer Revival Project
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
@@ -147,6 +147,7 @@
 * 🌐 **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** / [Frontends](https://emulation.gametechwiki.com/index.php/Frontends) - Emulators w/ Multiple Consoles
 * 🌐 **[RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list)** - Emulator Tools
 * 🌐 **[Multiplayer Emulation](https://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
+* ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * ⭐ **[Emulator BIOS Files](https://emulation.gametechwiki.com/index.php/Emulator_files)**
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
@@ -182,7 +183,7 @@
 * ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs / [Downloader](https://github.com/silverlays/NoIntro-Roms-Downloader)
 * ⭐ **[BlueRoms](https://www.blueroms.ws/)** - Emulators / ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
-* ⭐ **[CDRomance](https://cdromance.com/)** - ROMs
+* ⭐ **[CDRomance](https://cdromance.org/)** - ROMs / [Discord](https://cdromance.org/discord)
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - ROMs / Emulator Repacks
 * ⭐ **[ROMhacking](https://www.romhacking.net/)** or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
@@ -303,6 +304,7 @@
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
+* [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
@@ -326,14 +328,13 @@
 
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
 * ↪️ **[Multi-Console Browser Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi-console_browser_emulators)**
-* [Telemelt](https://telemelt.com/) - Multiplayer Browser Emulator
-* [PSX Party](https://psxparty.kosmi.io/) - Multiplayer Playstation Browser Emulator
+* ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
+* ⭐ **[PSX Party](https://psxparty.kosmi.io/)** - Multiplayer Playstation Browser Emulator
 * [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
 * [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
 * [8bbit](https://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators
-* [QAOP](https://torinak.com/qaop/games) - Arcade Games
 * [SSega](https://www.ssega.com/) - Sega Browser Emulator
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
 * [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
@@ -342,11 +343,13 @@
 * [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator
 * [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
+* [QAOP](https://torinak.com/qaop/games) - ZX Spectrum
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
 * [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
 * [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [Level Share Square](https://levelsharesquare.com/) - Custom Maps for Mario Fangames
 * [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
 * [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
@@ -468,6 +471,7 @@
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms w/ Steam
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
+* [HonestSteamBrowser](https://honeststeambrowser.com/) - Steam Server Browser
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
@@ -488,6 +492,7 @@
 * [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
 * [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
+* [Fuck Off EA App](https://github.com/p0358/Fuck_off_EA_App) - Use Origin Instead of EA App
 * [Bazzite](https://github.com/ublue-os/bazzite) - Alt Steam Deck OS
 * [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
 * [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
@@ -499,7 +504,7 @@
 
 ## ▷ Game Launchers
 
-* ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) - Game Library / Launcher
+* ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://playnite.link/addons.html) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin) - Game Library / Launcher
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)** or **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)** - Game Libraries / Launchers
 * [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/) - Cross Platform Game Library / Launcher
 * [Launchbox](https://www.launchbox-app.com/) - Retro / Console Game Library / Launcher
@@ -576,6 +581,7 @@
 * [Leaf](https://leafapp.co/) or [HaloDataHive](https://halodatahive.com/) - Halo Infinite Leaderboards / Stats
 * [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
+* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 * [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
 * [Pancake Patcher](https://gamebanana.com/tools/7382) - Fall Guys String Patcher
 * [FallGuysDB](https://fallguys-db.pages.dev/) - Fall Guys Store & Show Rotations
@@ -773,6 +779,7 @@
 * [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
 * [MinecraftSeeds](https://minecraftseeds.io/) - Minecraft Seeds
 * [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seed Maps
+* [Chunker](https://chunker.app/) - Minecraft Format Converter (can corrupt worlds)
 * [TerraForged](https://github.com/TerraForged/TerraForged) - Improved Biomes Mod
 * [Biomes-O-Plenty](https://github.com/Glitchfiend/BiomesOPlenty) - Extra Biomes Mod
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
@@ -862,22 +869,6 @@
 
 ***
 
-## ▷ Roblox Tools
-
-* 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
-* ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
-* ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
-* ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
-* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
-* [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
-* [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
-* [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
-* [Roblox Studio](https://create.roblox.com/) - Roblox Dev Tool
-* [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
-
-***
-
 ## ▷ Terraria Tools
 
 * ⭐ **[Terranion](https://yal.cc/r/terranion/)** - Terraria Wiki
@@ -911,6 +902,22 @@
 
 ***
 
+## ▷ Roblox Tools
+
+* 🌐 **[Roblox Archive](https://archive.roblonium.com/)** - Roblox Client Archive
+* ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
+* ⭐ **[Rolimon's](https://www.rolimons.com/games)** or [RoMonitor Stats](https://romonitorstats.com/) - Roblox Experience Stats
+* ⭐ **[Bloxstrap](https://github.com/pizzaboxer/bloxstrap)** - Roblox Player Bootstrapper
+* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
+* [Novetus](https://bitl.itch.io/novetus) - Self-Hosted Multi-version Roblox Client
+* [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
+* [RoPro](https://ropro.io/), [Roblox+](https://chromewebstore.google.com/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040), [RoGold](https://rogold.live/) or [RoSeal](https://www.roseal.live/) - Enhance Roblox Website
+* [RBXServers](https://rbxservers.xyz/) - Roblox VIP Servers
+* [Roblox Studio](https://create.roblox.com/) - Roblox Dev Tool
+* [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
+
+***
+
 ## ▷ Tabletop Tools
 
 * 🌐 **[Awesome TTRPG](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs / Resources
@@ -940,7 +947,7 @@
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
 * ⭐ **[Ninjakiwi](https://ninjakiwi.com/archive)** - Bloons / Multiplayer / Steam Needed
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
-* ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
+* ⭐ **[Allchemy](https://allchemy.io/)** or [Infinite Craft](https://neal.fun/infinite-craft/) - Infinite Item Crafting Games
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme
 * [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
@@ -976,6 +983,7 @@
 * [2020 Game](https://2020game.io/) - Play through 2020
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
 * [Checkbox Olympics](https://checkbox.toys/) - Checkbox Browser Games
+* [Cookie Consent Speed.Run](https://cookieconsentspeed.run/) - Cookie Disabling Game
 * [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
 * [The Circle](https://the-circle.app/) - Dodge Circles
 * [PROXX](https://proxx.app/) - A Game of Proximity

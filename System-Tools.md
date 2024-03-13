@@ -61,7 +61,7 @@
 * [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - Improved Control Panels
 * [Hunt and Peck](https://github.com/zsims/hunt-and-peck/), [Cerebro App](https://cerebroapp.com/) or [Zazu App](https://zazuapp.org/) - Improved System Navigation
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - Improved System Menu
-* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - Improved Context Menus
+* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Nilesoft Shell](https://nilesoft.org/) - Improved Context Menus
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md) - Customize Context Menu
 * [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/) or [ValliStart](https://github.com/Jax-Core/ValliStart) - Improved Start Menus
@@ -180,6 +180,7 @@
 * ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)**
 * ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)**
 * ⭐ **[WorkSpacer](https://workspacer.org/)**
+* [Whim](https://github.com/dalyIsaac/Whim/)
 * [nog](https://github.com/TimUntersberger/nog)
 * [bug.n](https://github.com/fuhsjr00/bug.n)
 * [GridMove](https://www.dcmembers.com/jgpaiva/)
@@ -346,7 +347,7 @@
 * [OS.click](https://os.click/en) - Windows ISOs
 * [AlicesWorld](https://msdn.alicesworld.tech/) - Windows ISOs
 * [Microsoft SD](https://www.microsoft.com/en-us/software-download/) - Windows ISOs
-* [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
+* [Old School OS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISOs
 * [Fido](https://github.com/pbatard/Fido) - ISO Powershell Script
 * [MSDN Files](https://msdn.rg-adguard.net/) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)

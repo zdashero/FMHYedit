@@ -35,6 +35,7 @@
 * [Metaphor](https://metaphor.systems/) / [Discord](https://discord.com/invite/jvz7GS9W8Y) - AI Search Engine
 * [Ora](https://ora.ai/start) - GPT-3.5 Based Chatbots
 * [Pi](https://pi.ai/talk) - Inflection AI's Chatbot
+* [Reka Playground](https://chat.reka.ai/) - Reka's Chatbot
 * [Poe](https://poe.com/) - Multiple Chatbots / 150 Daily / [Discord](https://discord.com/invite/joinpoe)
 * [play.vercel](https://play.vercel.ai/) - Compare Multiple Chatbots
 * [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - AI Chatbot with Document Support
@@ -59,7 +60,7 @@
 * [PlugBear](https://plugbear.io/) - Connect LLMs to Apps
 * [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - Generative AI Guides
 * [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT TUI
-* [LibreChat](https://github.com/danny-avila/LibreChat),  [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/) or [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui)  - ChatGPT Desktop Apps / GUIs
+* [LibreChat](https://github.com/danny-avila/LibreChat), [Lobe Chat](https://github.com/lobehub/lobe-chat), [HemulGM](https://github.com/HemulGM/ChatGPT), [SmolAI](https://github.com/smol-ai/menubar/) or [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui)  - ChatGPT Desktop Apps / GUIs
 
 ***
 
@@ -90,11 +91,12 @@
 
 * 🌐 **[Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt)** - ChatGPT Resources
 * 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)** or **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUI Indexes
+* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
 * ⭐ **[ChatHub](https://chathub.gg/)** - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[TypeSet](https://typeset.io/)** - Research Paper Chatbot
 * [Erin](https://erin.ac/) or [SallyBot](https://github.com/DeSinc/SallyBot/) - ChatGPT Discord Bots
-* [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://github.com/danswer-ai/danswer) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/), [DAnswer](https://github.com/danswer-ai/danswer), [DocsGPT](https://docsgpt.arc53.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
 * [PrivateGPT](https://github.com/imartinez/privateGPT/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
@@ -110,7 +112,7 @@
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
-* [ChatGPT Old Style](https://greasyfork.org/en/scripts/486909-openai-chat-old-colors) - Old ChatGPT Colors
+* [ChatGPT Old Style](https://greasyfork.org/en/scripts/486909) - Old ChatGPT Colors
 
 ***
 
@@ -121,7 +123,6 @@
 * ⭐ **[flowgpt](https://flowgpt.com/)** - Prompt Directory
 * ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)**, [LearnPrompting](https://learnprompting.org/docs/intro), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering), [LearningPrompt](https://learningprompt.wiki/) or [Jailbreaking ChatGPT](https://arxiv.org/pdf/2305.13860) - Prompting Guides
-* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** - Jailbreak Prompts
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
 * [UseThisPrompt](https://www.usethisprompt.io/) - Prompt Directory
@@ -145,9 +146,10 @@
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory
 * [PowerUsers](https://powerusers.ai/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
+* [AI Tools](https://aitools.fyi/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AI
-* [Google Labs](https://labs.withgoogle.com/) - AI Experiments
+* [Google Labs](hhttps://labs.google/) - AI Experiments
 
 ***
 ***
@@ -222,7 +224,8 @@
 * [ComfyUI Web](https://comfyuiweb.com/) / Unlimited
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited
 * [Pollinations](https://pollinations.ai/) / Unlimited / [Discord](https://discord.com/invite/8HqSRhJVxn)
-* [PicFinder](https://picfinder.ai/) / Unlimited 
+* [PicFinder](https://picfinder.ai/) / Unlimited
+* [Perchance](https://perchance.org/ai-text-to-image-generator) / Unlimited
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Monthly
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Daily
 * [Adobe Firefly](https://firefly.adobe.com/) / 25 Monthly / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
@@ -255,6 +258,7 @@
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
 * [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) / [Discord](https://discord.com/invite/ttM8Tm6wge)
 * [Radiata](https://github.com/ddPn08/Radiata)
+* [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
 * [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
 * [aiimag.es](https://sunija.itch.io/aiimages) / [Discord](https://discord.com/invite/Fge4dVHFM2)
 
@@ -285,6 +289,7 @@
 * ⭐ **[Riffusion](https://www.riffusion.com/)**
 * ⭐ **[Chirp](https://app.suno.ai/)**
 * [Wolfram Tones](https://tones.wolfram.com/)
+* [StableAudio](https://www.stableaudio.com/)
 * [audio visual generator](https://fredericbriolet.com/avg/)
 * [Fake Music Generator](https://www.fakemusicgenerator.com/)
 * [Jingle](https://aidn.jp/jingle/)

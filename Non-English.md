@@ -64,7 +64,7 @@
 
 # ► Bangla / বাংলা 
 
-## ▷ Reading
+## ▷ Reading / পড়া
 
 * [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF Library for BD HSC Candidates
@@ -73,11 +73,16 @@
 * [AmarBooks](https://www.amarbooks.org/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
 
-## ▷ Streaming
+## ▷ Streaming / স্ট্রিমিং
 
 * ↪️ **[Bangla English Course](https://rentry.co/FMHYBase64#bangla-english-course)**
 * ↪️ **[Bangla Freelancing Course](https://rentry.co/FMHYBase64#bangla-freelancing)**
 * ↪️ **[Bangla Excel Course](https://rentry.co/FMHYBase64#bangla-excel)**
+
+## ▷ Downloading / ডাউনলোডিং
+
+* [MLSBD](https://mlsbd.shop/) - Movies / TV / WEB / Bangla Natok / Some NSFW / Adblocker Recomended / 1080p
+* [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 
 ***
 
@@ -111,6 +116,7 @@
 * 🌐 **[heji](https://233heji.com/)**, **[BestXTools](https://discuss-cn.bestxtools.com/)** or **[bajins](https://www.bajins.com/)** - Chinese Sites / Tools Indexes
 * 🌐 **[Awesome GitHub Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)** - Programming Resources Index
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
+* [chat2ai](https://www.chat2ai.cn/) - AI Index
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
@@ -350,6 +356,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[Hotstream](https://hotstream.me/)** - Movies / Series / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
@@ -421,6 +428,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[HDFilme](https://hdfilme.best/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinokiste](https://kinokiste.live/)** -  Movies / TV / Dub / 1080p
@@ -1016,6 +1024,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Braflix](https://www.braflix.video/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/wWKmxARaWH)
 * ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, **[Curso em Vídeo](https://www.cursoemvideo.com)**, **[iEstudar Cursos](https://iestudar.com)** or **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
 * [WarezCDN](https://warezcdn.com) - API for Movies / TV / Anime

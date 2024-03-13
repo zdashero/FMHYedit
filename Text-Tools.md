@@ -37,9 +37,9 @@
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[WriteXO](https://writexo.com/)**
 * [Rlim](https://rlim.com/)
-* [Snips.sh](https://snips.sh/) - Self-Hosted
 * [Paster](https://paster.so)
 * [paste](https://paste.ee/)
+* [sparked](https://paste.sparked.host/)
 * [pst.moe](https://pst.moe/)
 * [p.ip.fi](https://p.ip.fi/)
 * [paste.mozilla](https://paste.mozilla.org/)
@@ -67,6 +67,7 @@
 * [centos](https://paste.centos.org/)
 * [blankslate](https://blankslate.io/)
 * [microbin](https://microbin.eu/)
+* [Snips.sh](https://snips.sh/) - Self-Hosted
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 * [Mystb.in](https://mystb.in/), [codeshare](https://codeshare.io/), [paste.mod](https://paste.mod.gg/) or [snippet.host](https://snippet.host/) - Code Pastebins
 
@@ -74,7 +75,7 @@
 
 ## ▷ Translators
 
-* ⭐ **[DeepL](https://www.deepl.com/translator)**
+* ⭐ **[DeepLX](https://github.com/OwO-Network/DeepLX)** or [DeepL](https://www.deepl.com/translator)
 * ⭐ **[Google Translate](https://translate.google.com/)**
 * [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation Apps
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
@@ -171,6 +172,7 @@
 * [Unilist](https://unilist.raphaelbastide.com/)
 * [Character Map](https://github.com/character-map-uwp/Character-Map-UWP)
 * [Alt Codes](https://alt-codes.net/)
+* [FancySymbol](https://fancysymbol.com/)
 * [Unifoundry](https://unifoundry.com/)
 * [Cool Symbol](https://coolsymbol.com/)
 * [WinCompose](http://wincompose.info/) - Unicode Compose Key / [GitHub](https://github.com/samhocevar/wincompose)
@@ -262,6 +264,7 @@
 * [ssavr](https://www.ssavr.com/) - Local Saves
 * [notepad-online.com](https://notepad-online.com/) - Local Saves
 * [JustNotePad](https://justnotepad.com/) - Local Saves
+* [PasteePad](https://pasteepad.com/) - Local Saves
 * [Shrib](https://shrib.com/) - Local / Cloud Saves
 * [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves
@@ -343,6 +346,7 @@
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [daily.place](https://www.daily.place/)
+* [SuperList](https://www.superlist.com/)
 * [Fokus](https://fokus-website.netlify.app/)
 * [OpenToDoList](https://gitlab.com/rpdev/opentodolist)
 * [Microsoft To Do](https://apps.microsoft.com/store/detail/microsoft-to-do-lists-tasks-reminders/9NBLGGH5R558)

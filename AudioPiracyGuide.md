@@ -8,7 +8,8 @@
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)**
 * [SpoTube](https://spotube.krtirtho.dev/) - Lightweight / Ad-Free Client / [GitHub](https://github.com/KRTirtho/spotube)
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client
-* [Spotify Web Client](https://open.spotify.com/) / [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+* [Spotify Web Client](https://open.spotify.com/) 
+* Web Client Tools - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 
 ***
 
@@ -28,7 +29,6 @@
 * ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes
 * ⭐ **Spicetify Tools** - [CLI](https://github.com/spicetify/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
 * [Versefy](https://versefy.app/) - Lyrics
-* [SpotifyTools](https://spotifytools.romanello.xyz/) - Spotify Companion
 * [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) - Playlist Randomizer
 * [Playlist Sorter](https://www.playlistsorter.com/) - Sort Playlists
 * [Timelineify](https://www.timelineify.com/) - Sort Playlists by Release
@@ -135,7 +135,7 @@
 * [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
-* [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
+* [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/), [Phonobase](http://www.phonobase.org/index.php?langue=en) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music
@@ -195,7 +195,7 @@
 * [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](https://gpodder.github.io/) - Podcast Client
-* [ListenLater](https://www.listenlater.fm/) - Turn Articles into Podcasts 
+* [ListenLater](https://www.listenlater.fm/) or [EchoWalk](https://www.echowalk.com/) - Turn Articles / Webpages into Podcasts 
 * [ListenBox](https://listenbox.app/) or [PodSync](https://github.com/mxpv/podsync) - Turn YouTube Video into Podcasts
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 * [Podcatalysts](https://podcatalysts.substack.com/) - Podcast Recommendation Newsletter
@@ -297,7 +297,7 @@
 
 * 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * ↪️ **[Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music)**
-* ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / 320kb / MP3 / FLAC
+* ⭐ **[Slider](https://hayqbhgr.slider.kz/)** - 320kb / MP3
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
@@ -671,7 +671,7 @@
 
 ## ▷ Lyric Sites
 
-* ⭐ **[dumb](https://github.com/rramiachraf/dumb)** - Genius Lyrics Frontend
+* ⭐ **[dumb](https://github.com/rramiachraf/dumb)** or [genius](https://genius.com/) - Lyric Explanations
 * [AZLyrics](https://www.azlyrics.com/), [FindMusicByLyrics](https://findmusicbylyrics.com/) or [Lyrics.com](https://www.lyrics.com/) - Lyric Search
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyric Finder for Spotify / Tidal / VLC
 * [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
@@ -736,6 +736,7 @@
 * [Element](https://kushview.net/element/) - Audio Editor / [Discord](https://discord.com/invite/RVk3RVJ)
 * [AudioMass](https://audiomass.co/) - Online Editor
 * [BeepBox](https://www.beepbox.co/) - Online Editor
+* [editor.audio](https://editor.audio/) - Online Editor
 * [Efflux](https://www.igorski.nl/application/efflux/) - Online Editor
 * [TwistedWave](https://twistedwave.com/online) - Online Editor
 * [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
@@ -759,7 +760,7 @@
 
 ## ▷ Audio Synthesizers
 
-* ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [orDrumbox](https://www.ordrumbox.com/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machine
+* ⭐ **[Drumha](https://www.drumha.us/)**, [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/), [Hammmerhead](http://www.threechords.com/hammerhead/), [orDrumbox](https://www.ordrumbox.com/), [Peel](https://peel.fm/) or [Hydrogen](http://hydrogen-music.org/) - Virtual Drum Machines
 * [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
 * [WebSynths](https://www.websynths.com/) - Collection of browser-based musical instruments

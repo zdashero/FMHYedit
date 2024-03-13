@@ -35,7 +35,7 @@
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files
 * [pe_tree](https://github.com/blackberry/pe_tree) - PE File Tree View
-* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO File Viewers
+* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO Viewers
 
 ***
 
@@ -214,6 +214,7 @@
 * [nwipe](https://github.com/martijnvanbrummelen/nwipe)
 * [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
 * [Delapp](https://github.com/differentrain/Delapp)
+* [RED](https://www.jonasjohn.de/red.htm) - Remove Empty Directories
 
 ***
 
@@ -276,7 +277,7 @@
   
 ***
 
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 90 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest File](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Note](https://pastebin.com/A9aJr8cE)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 days / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest File](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.cybar.xyz) / [Bypass Note](https://pastebin.com/A9aJr8cE)
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / 10 days
 * ⭐ **[1fichier](https://1fichier.com/)** - 300GB / 15 days (30 days if you sign up)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
