@@ -55,7 +55,7 @@
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW)
 * ⭐ **[Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)** - Download
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
-* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
+* [DODI Repacks](https://dodi-repacks.site/) - Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/) / [Opera Bypass](https://rentry.co/lootlink)
 * [FS-Repacks](https://www.fluxyrepacks.site/) - Download / [Discord](https://discord.gg/sSA3S3kZZn)
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Elamigos](https://elamigos.site/) - Download
@@ -72,7 +72,7 @@
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * ↪️ **[DOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** / **[MSX Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_msx_games)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)** or **[AbandonwareGames](https://abandonwaregames.net/)** - Abandonware
-* ⭐ **[OpenRCT2](https://openrct2.io/)** - Open-Source RollerCoaster Tycoon 2
+* ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
 * [PCGameAbandonware](https://www.pcgamesabandonware.com/), [Flashtro](https://flashtro.com/), [Zombs-Lair](https://www.zombs-lair.com/), [Old-Games.com](https://www.old-games.com/) or [VETUSWARE](https://vetusware.com/category/Games/) - Abandonware
 * [GamesNostalgia](https://gamesnostalgia.com/), [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/), [hol abime](https://hol.abime.net/) or [C64](https://www.c64.com/) - Amiga / Commodore 64 Games
 * [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
@@ -112,6 +112,7 @@
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
+* [CannonBall](https://github.com/djyt/cannonball) - OutRun Remake / [Video](https://youtu.be/t-93kDC8Vac)
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball
@@ -395,15 +396,6 @@
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) - Tournament Creator / Manager
-* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools
-* [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
-* [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
-* [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows
-* [JoyToKey](https://joytokey.net/) - Controller Emulator
-* [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
-* [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
-* [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
-* [HidHide](https://github.com/ViGEm/HidHide) - Input Device Firewall
 * [Medal](https://medal.tv/) - Shadowplay for non Nvidia Cards / [Premium Bypass](https://medalbypass.vercel.app/)
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
@@ -429,10 +421,6 @@
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
-* [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
-* [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
-* [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls
-* [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [FatmanTutorial](https://archive.org/details/fatmantutorial) - How-to Repack Games
 * [How Denuvo Works](https://rentry.co/denuvo) or [Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 
@@ -524,7 +512,7 @@
 * ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)** or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* ⭐ **[Magpie](https://github.com/Blinue/Magpie)** or [The Falcons](https://discord.gg/uqx6PUTy) - Free FSR 3 Mods / [Guide](https://rentry.co/fsr3-mod-guide)
+* ⭐ **[Magpie](https://github.com/Blinue/Magpie)**, [Vuenxx](https://discord.gg/ASZjqrjWYf) or [The Falcons](https://discord.gg/8fh5BXxcjY) - Free FSR 3 Mods / [Guide](https://rentry.co/fsr3-mod-guide)
 * [PC-Tuning](https://github.com/amitxv/PC-Tuning), [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
@@ -543,6 +531,24 @@
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](https://www.flawlesswidescreen.org/) - Widescreen Fixes
 * [4GB Patch](https://ntcore.com/?page_id=371) - Let Any Game use 4GB of RAM
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
+
+***
+
+## ▷ Controller Tools
+
+* [DS4Windows](https://github.com/Ryochan7/DS4Windows), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [PCXSense](https://github.com/Denellyne/PCXSense) or [Input Remapper](https://github.com/sezanzeb/input-remapper) - Gamepad Input Tools / [Steam Note](https://pastebin.com/ycswQGVR)
+* [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
+* [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
+* [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows
+* [JoyToKey](https://joytokey.net/) - Controller Emulator
+* [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
+* [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable) - Use Phone as Controller
+* [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
+* [HidHide](https://github.com/ViGEm/HidHide) - Input Device Firewall
+* [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
+* [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
+* [Arcade Controls](http://arcadecontrols.com/arcade.htm) - DIY Arcade Controls
+* [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 
 ***
 
@@ -642,8 +648,9 @@
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Palworld Interactive](https://palworld.th.gl/) - Palworld Map
 * [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins etc.
+* [Hitmaps](https://www.hitmaps.com/) - Hitman Maps / [Discord](https://discord.gg/RssFsajjjX) 
 * [Hallownest](https://www.hallownest.net/) or [Interactive HN Map](https://scripterswar.com/hollowknight/map) - Hollow Knight Maps
-* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
+* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Maps
 
 ***
 
@@ -684,7 +691,7 @@
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Steam Games](https://steam-games.org/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/), [Orcz](https://orcz.com/Main_Page) or [FrontierNav](https://frontiernav.net/) - Game Databases
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
 * [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
-* [RPGCodex](https://rpgcodex.net/forums/) - RPG Databse / Forum
+* [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
 * [SteamPeek](https://steampeek.hu/) or [IndieDB](https://www.indiedb.com/) - Indie Game Databases
 * [RetroShowcase](https://www.retroshowcase.gr/), [Squakenet](https://www.squakenet.com/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
@@ -744,10 +751,10 @@
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
 * [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/) or [Quark](https://quarkmod.net/) - Mincraft Quality of Life Mods
-* [Vanillatweaks](https://www.vanillatweaks.net/) - Minecraft Resources / Data Pack
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
 * [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [r/feedthebeast](https://reddit.com/r/feedthebeast/) - Minecraft Mod Discussion Subreddit
+* [Vanillatweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [VoodooBeard](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Minecraft Command Science](https://minecraftcommand.science/) or [MCStacker](https://mcstacker.net/) - Minecraft Command Generators
 * [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
@@ -770,16 +777,23 @@
 * [Minecraft Server Checker](https://moistcatawumpus.github.io/minecraft-server-checker/) - Simple Server Checker
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
+* [ShadersMods](https://shadersmods.com/) or [MinecraftShader](https://minecraftshader.com/) - Minecraft Shaders
 * [Iris Shaders](https://modrinth.com/mod/iris) - Fabric Shadermod for Minecraft
+* [Ely.by](https://ely.by/) - Skin System / Authorization
 * [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
-* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
+* [Minecraft Armor Stand](https://haselkern.com/Minecraft-ArmorStand/) - Create Poses for Minecraft Armor
+* [VoxelSphereGenerator](https://oranj.io/blog/VoxelSphereGenerator), [BDStudio](https://eszesbalint.github.io/bdstudio/editor) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools / Voxel Editors
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
 * [The Minecraft Archive Project](https://map.crummy.com/) - Minecraft World Archive
 * [Amulet](https://www.amuletmc.com/), [MCA Selector](https://github.com/Querz/mcaselector) or [uNmINeD](https://unmined.net/) - Minecraft Map Editors / Viewers
-* [MinecraftSeeds](https://minecraftseeds.io/) - Minecraft Seeds
-* [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seed Maps
+* [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seeds
+* [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
+* [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
+* [MapartCraft](https://rebane2001.com/mapartcraft/) - Mapart schematic / map.dat Generator / [GitHub](https://github.com/rebane2001/mapartcraft)
 * [Chunker](https://chunker.app/) - Minecraft Format Converter (can corrupt worlds)
+* [ObjtoSchematic](https://objtoschematic.com/) - Converts Minecraft Obj files to Schematics / [Discord](https://discord.com/invite/McS2VrBZPD)
+* [NBT Studio](https://github.com/tryashtar/nbt-studio/ ) or [webNBT](https://irath96.github.io/webNBT/) - Minecraft NBT File Editors
 * [TerraForged](https://github.com/TerraForged/TerraForged) - Improved Biomes Mod
 * [Biomes-O-Plenty](https://github.com/Glitchfiend/BiomesOPlenty) - Extra Biomes Mod
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
@@ -891,14 +905,18 @@
 ## ▷ Geometry Dash Tools
 
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
-* ⭐ **[Demon List](https://pointercrate.com/demonlist/) / [Challenge List](https://challengelist.gd/challenges/)** - Official Demon List and Challenge List
-* [GDDP](https://gddp.pro/) - Practice & Improve Your Skills
+* ⭐ **[Demon List](https://pointercrate.com/demonlist/)**, [Challenge List](https://challengelist.gd/challenges/), [Unrated Demon List](https://udl.pages.dev/#/), [Rated Extremes List](https://aredl.pages.dev/), [Impossible List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit) - Demon Lists
+* ⭐ **[GDDP](https://gddp.pro/)** or [GD Demon Ladder](https://gdladder.com/) - Practice & Improve Your Skills
 * [Soluble Texture Packs](https://solubletexturepacks.com/) - GD Texture Packs / [Manager](https://geode-sdk.org/mods/geode.texture-loader/)
+* [Spritesheet Splitter](https://gdcolon.com/gdsplitter/) - Split & Merge GD Spritesheets
+* [GD Save Explorer](https://gdcolon.com/gdsave/) - View Detailed Stats & Data of Save Files
 * [Song File Hub](https://songfilehub.com/home) - GD Songs & Mashups / [Discord](https://discord.com/invite/maSgd4zpEF)
-* [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
-* [Unrated Demon List](https://udl.pages.dev/#/) - Hardest Unrated Levels
-* [Globed](https://github.com/dankmeme01/globed2) - Multiplayer Mod
+* [Globed](https://github.com/dankmeme01/globed2) - GD Multiplayer Mod
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
+* [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
+* [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
+* [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list)
+* [Mobile Demon List](https://mobilepointercrate.com/) / [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0) - Mobile Demon Lists 
 
 ***
 
@@ -994,7 +1012,6 @@
 * [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
-* [Prosperity](http://www.playprosperity.ca/) - Civilization Building RPG
 * [Amazeworld](https://www.amazeworld.com/) - Interactive Webmazes
 * [Gandalf](https://gandalf.lakera.ai/) - AI Prompting Skill Game
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
@@ -1133,14 +1150,13 @@
 * 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [GameKnot Chess](https://gameknot.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
-* [ChessDVDBooksProg](https://t.me/ChessDVDBooksProg) - Chess Courses, Books, Programs etc.
+* ⭐ **[ChessDVDBooksProg](https://t.me/ChessDVDBooksProg)** - Chess Courses, Books, Programs etc.
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
 * [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
 * [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
-* [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
 * [Star Wars Chess](https://archive.org/details/msdos_Star_Wars_Chess_1993) - Star Wars Style Chess / [Manual](https://archive.org/details/star-wars-chess-manual/)
 * [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
@@ -1154,7 +1170,6 @@
 * [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
 * [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 * [Bloob Checkers](https://bloob.io/checkers) - 4 Player Checkers
-* [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
 
 ***
 

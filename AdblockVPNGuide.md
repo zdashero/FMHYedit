@@ -429,7 +429,7 @@
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available
-* ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / No Torrenting w/ Free Version
+* ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / [Config Generation](https://gist.github.com/fusetim/1a1ee1bdf821a45361f346e9c7f41e5a) / No Torrenting w/ Free Version
 * ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Warp+ Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus), [3](https://github.com/totoroterror/warp-cloner), [4](https://t.me/generatewarpplusbot), [5](https://rentry.co/warp_plus_free) / [Warp+ Warning](https://rentry.co/warpwarning) / [WireGuard Guide](https://rentry.co/foss-warp)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN
 * [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
@@ -475,13 +475,13 @@
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
-* [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxys
+* [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
 * [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
 * [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-Hosted Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
-* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), [Privoxy](https://www.privoxy.org/) / [Docker Build](https://github.com/binhex/arch-privoxyvpn) or [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-Hosted Proxy Websites
+* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-Hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
@@ -501,7 +501,7 @@
 * [Blockaway](https://www.blockaway.net/)
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [CroxyProxy](https://www.croxyproxy.com/)
-* [ProxyPx](https://www.proxypx.com/)
+* [ProxyPx](https://croxyproxy.best/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)

@@ -104,7 +104,7 @@
 * [Tech Day](https://t.me/s/tech_d4y)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
 * [AyraProject](https://t.me/AyraProject)
-* [Modules Repositor](https://t.me/modulesrepo)
+* [Modules Repository](https://t.me/modulesrepo)
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 
 ***
@@ -144,7 +144,6 @@
 * [ApkShellExt2](https://www.apkshellext.com/) - Desktop App Manager
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
-* [Winlator](https://github.com/brunodev85/winlator) - Android Windows Emulators
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 * [G-CPU](https://play.google.com/store/apps/details?id=com.insideinc.gcpu) - Hardware Monitor
@@ -183,7 +182,6 @@
 * [wallman](https://gitlab.com/colorata/wallman) - Wallpapers
 * [FreshWalls](https://play.google.com/store/apps/details?id=com.techburner.freshwalls) - Wallpapers
 * [Backdrops](https://www.backdrops.io/) - Wallpapers
-* [Vave BG](https://vavebg.com/) - AI Generated Wallpapers
 * [Zedge](https://www.zedge.net/) - Wallpapers / Ringtones / Use Adblocker
 * [DarQ](https://github.com/KieronQuinn/DarQ) - Universal Dark Mode
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) or [RingtoneRobot](https://t.me/RingtoneRobot) - Ringtones Directories
@@ -408,7 +406,6 @@
 * ⭐ **[DPITunnel](https://github.com/nomoresat/DPITunnel-android)**, [Intra](https://getintra.org), [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - Proxies
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy Apps
-* [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [GoFLy](https://play.google.com/store/apps/details?id=com.ambrose.overwall), [Shuttle VPN](https://play.google.com/store/apps/details?id=com.shuttlevpn.free.proxy.gaming) or [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html) - Free VPNs
 * [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [Smartphone Hardening Guide](https://lemmy.ml/post/128667)
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
@@ -616,6 +613,7 @@
 * ⭐ **[WSABuilds](https://github.com/MustardChef/WSABuilds)** - Windows Subsystem / Pre-built Binaries
 * ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)**, [Redroid](https://github.com/remote-android/redroid-doc), [PostmarketOS](https://www.postmarketos.org/), [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch), [Plasma Mobile](https://plasma-mobile.org/) or [Mobian](https://mobian-project.org/) - Linux Subsystems
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
+* ⭐ **[mobox](https://github.com/olegos2/mobox)** or [Winlator](https://github.com/brunodev85/winlator) - Android Windows Emulators
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Play Mobile Games on Windows
 * [Android x86](https://www.android-x86.org/) - Android Desktop OS / [Installer](https://aopc.dev/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html) / [Smart Dock](https://github.com/axel358/smartdock)
 * [BlissOS](https://blissos.org/) - Android Desktop OS / [Git](https://github.com/blissroms-x86)
@@ -623,7 +621,7 @@
 * [PhoenixOS Darkmatter](https://aopc.dev/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android in Docker
-* [BareNox](https://forum.xda-developers.com/t/tool-guide-barenox-modded-nox-android-emulator.4468425/) or [Nox](https://www.bignox.com/) - [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29), [2](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
+* [BareNox](https://forum.xda-developers.com/t/tool-guide-barenox-modded-nox-android-emulator.4468425/) or [Nox](https://www.bignox.com/) - [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48), [2](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
 * [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.ibb.co/WyggSQM/26828a9408f1.png)
 * [MuMu](https://www.mumuplayer.com/) - [Screenshot](https://i.ibb.co/vwBrY5M/bfa89c699ff7.png)
 * [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.ibb.co/FsMfk68/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
@@ -631,7 +629,6 @@
 * [Genymotion](https://www.genymotion.com/download/) - [Screenshot](https://i.ibb.co/6W7BXJn/6a291e5b5ac9.jpg) 
 * [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.ibb.co/tMkxvQr/cfaea91031d7.png)
 * [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) - Ubuntu Android Emulator
-* [mobox](https://github.com/olegos2/mobox) - Run Windows Apps on Android
 * [FlashLite](https://flashlite.games/) - Flash Emulator / [Discord](https://discord.gg/F2dsGhTX6y)
 * [JoiPlay](https://joiplay.cyou/) - RPG Maker Game Interpreter
 * [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - Adreno Drivers for Android Emulators / [Systemwide](https://github.com/SEGAINDEED/Adreno-ToolsDriversMagisk)
@@ -659,11 +656,11 @@
 # ► Android Reading
 
 * ↪️ **[Android Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)**
+* ⭐ **[Openlib](https://github.com/dstark5/Openlib)** - Free Books
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)** / [User Ranks](https://pastebin.com/pZuuMxYm) - Free Books
 * ⭐ **[KafkaArchives](https://www.kafkaarchives.com/)** - Archive.org Books / Audiobooks
 * ⭐ **[Librera](https://librera.mobi/)** or **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
-* [Openlib](https://github.com/dstark5/Openlib) - Free Books
 * [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Free Books
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
@@ -752,6 +749,7 @@
 
 ## ▷ Android Podcasts / Radio
 
+* ⭐ **[AntennaPod](https://antennapod.org/)** / [GitHub](https://github.com/AntennaPod/AntennaPod), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players 
 * [Escapepod](https://codeberg.org/y20k/escapepod), [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast), [PocketCasts](https://www.pocketcasts.com/) or [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) - Podcasts
 * [IHeartRadio](https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller), [MixCloud](https://play.google.com/store/apps/details?id=com.mixcloud.player&amp;hl=en) or [TuneIn](https://play.google.com/store/apps/details?id=tunein.player&amp;hl=en) - Podcasts / Radio
 * [Transistor](https://codeberg.org/y20k/transistor), [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/), [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) or [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app) - Radio
@@ -759,7 +757,6 @@
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [Nightwave Plaza](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) - Nightwave Radio
 * [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio
-* [AntennaPod](https://antennapod.org/) / [GitHub](https://github.com/AntennaPod/AntennaPod), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players 
 * [Muviz](https://www.sparkine.com/muviz/) or [Muviz Edge](https://www.sparkine.com/muviz-edge/) - Navbar Audio Visualizer
 * [Inspod](https://play.google.com/store/apps/details?id=com.kdanmobile.android.podsnote) - Podcast Notes
 
@@ -781,7 +778,7 @@
 * ↪️ **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_video_players)**
 * ↪️ **[Smart TV Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)**
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://stremio-addons.netlify.app/) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
-* ⭐ **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
+* ⭐ **[HDO Box](https://hdo.app/)** - Movies / TV / [Discord](https://discord.gg/VPRJVExUVD)
 * ⭐ **[CloudStream](https://cloudstream-on-fleek-co.ipns.dweb.link/)** - Movies / TV / Anime / [GitHub](https://github.com/recloudstream/cloudstream) / [2](https://github.com/hexated/cloudstream-extensions-hexated/) / [Mirrors](https://rentry.org/cs3-repos) / [Docs](https://recloudstream.github.io/csdocs/) 
 * ⭐ **[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)** or [Aniyomi](https://aniyomi.org/) - Movies / TV / Anime / [Extensions](https://aniyomi.org/extensions/) / [GitHub](https://github.com/aniyomiorg/aniyomi)
 * ⭐ **[Miru](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/) 
@@ -897,7 +894,6 @@
 * [Gear4](https://gear4.app/) or [Asobi](https://github.com/bdashore3/Asobi) - Browsers
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - Browser w/ Wayback Machine
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - iOS Safari Dark Mode
-* [Enmity](https://enmity.app/) - Modded iOS Discord Client / [GitHub](https://github.com/enmity-mod) / [Discord](https://discord.com/invite/rMdzhWUaGT)
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps
 * [UTM](https://getutm.app/) - Virtual Machines 
 * [AppManager](https://github.com/kawaiizenbo/AppManager) - App Manager for Windows
@@ -1046,7 +1042,6 @@
 * [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
 * [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175), [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browsers
 * [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
-* [ProtonVPN](https://protonvpn.com/download-ios) - Free VPN
 * [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
 * [Element](https://apps.apple.com/us/app/element-messenger/id1083446067), [FluffyChat](https://apps.apple.com/us/app/fluffychat/id1551469600) or [Syphon](https://syphon.org/) - Matrix Clients
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/) or [MySudo](https://mysudo.com/) - Encrypted Messaging / Video Calls

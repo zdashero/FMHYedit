@@ -279,7 +279,7 @@
 * [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot 
-* [suri](https://github.com/jstayton/suri), [Wormholes](https://noquark.com/products/wormholes), [urlhum](https://urlhum.com/) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* [suri](https://github.com/jstayton/suri), [urlhum](https://urlhum.com/) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
 * [cuttly](https://cutt.ly/) - Multiple URL Tools
 * [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://www.followthatpage.com/) - Page Change Detection / Notification 
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Checks If File Links are Alive or Not
@@ -348,8 +348,8 @@
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
 * ↪️ **[Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails)**
 * ↪️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_aliasing)**
-* [cock.li](https://cock.li/) - Simple Email Service
-* [nosms](https://rentry.co/nosms) - Create Infinite Gmail Accounts
+* ⭐ **[cock.li](https://cock.li/)** - Simple Email Service
+* ⭐ **[InboxReads](https://inboxreads.co/)** or [Readsom](https://readsom.com/) - Email Newsletter Archive
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger
 * [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
 * [BeFree](https://beefree.io/templates/free/) or [Briskine](https://www.briskine.com/) - Email Templates
@@ -504,7 +504,7 @@
 * [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - WebFont Changer 
 * [ColorZilla](https://www.colorzilla.com/) or [ColorFish](https://ui.vision/colorfish) - Color Picker
 * [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
-* [Emoji Addon](hhttps://www.emojiaddon.com/) - Quickly Copy / Paste Emojis
+* [Emoji Addon](https://www.emojiaddon.com/) - Quickly Copy / Paste Emojis
 * [Absolute Enable Right Click](https://pastebin.com/G7Juu6xc) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
 * [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats & Markdowns 
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 

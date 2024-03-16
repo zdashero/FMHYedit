@@ -324,7 +324,7 @@
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
-* [Launchy](https://launchy.net/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launchers
+* [Listary](https://www.listary.com/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launchers
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
@@ -423,7 +423,7 @@
 
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization
 * ⭐ **Rainmeter Tools** - [Skins](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) / [Menu Bar / App Launcher](https://www.droptopfour.com/)
-* ⭐ **[WLED](https://kno.wled.ge/)**, [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - Lighting Control
+* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://pastebin.com/tgY55J4n), **[WLED](https://kno.wled.ge/)**, [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - Lighting Control
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities 
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [LiteStep](http://litestep.net/) - Customize Desktop Interface

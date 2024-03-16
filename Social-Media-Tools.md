@@ -92,7 +92,7 @@
 * ⭐ **[Discohook](https://discohook.org/)** / [Discohook Utils](https://dutils.shay.cat/) or [Embed Generator](https://message.style/) - Embed Generators
 * ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customizable Rich Presence
 * [AMWin-RP](https://github.com/PKBeam/AMWin-RP) - Apple Music Rich Presence
-* [Foo Discord](https://www.foobar2000.org/components/view/foo_discord_rich) - Foobar Rich Presence 
+* [Foo Discord](https://github.com/s0hv/foo_discord_rich) - Foobar Rich Presence 
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence 
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 * [Old Layout](https://gist.github.com/aamiaa/fbf6e51dbb8875a781a3d8d76fc3f3e7) - Revert New Discord Layout
@@ -229,7 +229,7 @@
 
 ## ▷ Reddit Search
 
-* ⭐ **[TheGigaBrain](https://thegigabrain.com/)**, [Redditle](https://redditle.com/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
+* ⭐ **[TheGigaBrain](https://thegigabrain.com/)**, [Redditle](https://redditle.com/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30), [Samac](https://samac.io/) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
 * ⭐ **[RedditRepostSleuth](https://www.repostsleuth.com/)** - Reverse Post / Image Search
 * ⭐ **[Reveddit](https://www.reveddit.com/)**, [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Comment History](https://academictorrents.com/details/89d24ff9d5fbc1efcdaf9d7689d72b7548f699fc) - Reddit Comment Archives
@@ -240,6 +240,7 @@
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
 * [Wiki Downloader](https://github.com/michealespinola/reddit.wikidownloader) - Reddit Wiki Page Scraper
 * [Find on Reddit](https://chromewebstore.google.com/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of the Current URL
+* [PullPush](https://pullpush.io/) - Reddit Content API / [Discord](https://discord.com/invite/8hw88WMHFw)
 
 ***
 
@@ -260,7 +261,7 @@
 
 # ► Telegram Tools
 
-* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Telegram Channels](https://telegramchannels.me/), [Awesome-Telegram](https://github.com/ebertti/awesome-telegram) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
+* 🌐 **[TDirectory](https://tdirectory.me/)**, [Telemetr](https://telemetr.io/en), [Telegram Channels](https://telegramchannels.me/), [Awesome-Telegram](https://github.com/ebertti/awesome-telegram) - Telegram Channel Indexes
 * 🌐 **[ComBot Groups](https://combot.org/top/telegram/groups)** - Top Telegram Groups Index
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0), [2](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa), [Lyzem](https://lyzem.com/), [xTea](https://xtea.io/ts_en.html) or [TG-ME](https://www.tg-me.com/) - Telegram CSE's
 * [MediaDownBot](https://t.me/mediadownbot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Social Media Downloader
@@ -469,16 +470,16 @@
 * ⭐ **[7TV](https://7tv.app/)**, [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extensions
 * ⭐ **[TwitchNoSub](https://github.com/besuper/TwitchNoSub)** - Watch Sub Only Twitch Videos
 * ⭐ **[Stream Scheme](https://www.streamscheme.com/)** - Livestreaming Guides / Resources
-* [Gumbo](https://github.com/seldszar/gumbo) - Twitch Stream Tracker
+* [Gumbo](https://github.com/seldszar/gumbo) or [Twitch-Live](https://github.com/yungsamd17/Twitch-Live) - Twitch Stream Trackers
 * [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
 * [VODarchive](https://vodarchive.com/) or [TwitchArchive](https://twitcharchive.com/)- Twitch Video Archives
 * [Twitch Previews](https://github.com/MarkM-dev/Previews-client) or [Previews](https://previews-app.com/) - Twitch Video Previews
 * [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
-* [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
+* [vTwitch](https://vtwitch.com/) - Show Chat Below Player
 * [Featured.chat](https://featured.chat/) - Twitch Chat Manager
 * [JChat](https://www.giambaj.it/twitch/jchat/) - Show Twitch Chat on Screen
 * [Hide-Twitch-Chat-Users](https://github.com/mikeyaworski/Hide-Twitch-Chat-Users) - Hide Twitch Chat Users
-* [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
+* [TwitchChatDanmaku](https://github.com/wheatup/TwitchChatDanmaku), [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
 * [Auto Twitch Drops](https://chromewebstore.google.com/detail/automatic-twitch-drops-mo/kfhgpagdjjoieckminnmigmpeclkdmjm) - Twitch Drop Notifications
 * [Auto-Claim-Twitch-Channel-Points](https://github.com/mikeyaworski/Auto-Claim-Twitch-Channel-Points) or [TTVDropBot](https://github.com/Giingu/Enhanced-TTVDropBot) - Auto Claim Twitch Points
 * [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
@@ -486,7 +487,6 @@
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
 * [lurker.tv](https://www.lurker.tv/) - Discord Server Based Twitch Stream Recs
-* [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
@@ -494,6 +494,7 @@
 * [TwitchEmotes](https://twitchemotes.com/) - Global Twitch Emotes
 * [TwitchInsights](https://twitchinsights.net/), [StreamCharts](https://streamscharts.com/) or [TwitchTracker](https://twitchtracker.com/) - Twitch Stats
 * [Trovo](https://trovo.live/), [Glimesh](https://glimesh.tv/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/), [Lightspeed](https://lightspeed.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
 
 ***
 
@@ -506,8 +507,8 @@
 * [Walrus](https://joinwalrus.tv/) - Make Twitch Watch Parties
 * [MuliTwitch.tv](https://multitwitch.tv/), [MultiTwitch.co](https://multitwitch.co/), [Twitch3D](https://hjjg200.github.io/twitch3d/), [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/) or [TwitchTheater](https://twitchtheater.tv/) - Sync Twitch Videos w/ Friends / Mult-Stream
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
+* [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
 * [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alternative Twitch Player
-* [vTwitch](https://vtwitch.com/) - Show Chat Below Player
 * [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 
 ***
@@ -560,7 +561,7 @@
 ## ▷ Twitter Customization
 
 * ⭐ **[Eight Dollars](https://github.com/wseagar/eight-dollars)** - Show Twitter Blue vs. Real Verified Users
-* [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) - Twitter Enhancement Extensions
+* [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter) - Twitter Enhancement Extensions
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
 * [OldTwitter](https://github.com/dimdenGD/OldTwitter) - Original Twitter Theme
 * [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - TweetDeck Dashboard
@@ -615,7 +616,7 @@
 # ► Fediverse Tools
 
 * 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
-* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/), [Fediverser](https://fediverser.network/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
+* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
 * ⭐ **[Lemmy](https://join-lemmy.org/)** / [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
@@ -669,6 +670,7 @@
 * ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search) - 4chan Archives
 * [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - Search 4chan Archives
 * [Oldfriend Archive](https://old.sage.moe/) - 2004 - 2014 Archive
+* [Hayden Ultra](https://ultra.gondola.pics/) - 2018-2023 Archive
 * [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion) or [4Museum](https://4museum.neocities.org/) - 2006 - 2008 Archive
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012) - 2009 - 2012 Archive
 * [Archive.4plebs](https://archive.4plebs.org/) - 2013 - 2023 Archive

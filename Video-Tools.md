@@ -174,6 +174,7 @@
 * [Metastream](https://getmetastream.com/)
 * [Caracal Club](https://caracal.club/)
 * [CyTube](https://cytu.be/)
+* [VideoTogether](https://2gether.video/en-us/)
 * [baked.live](https://baked.live/)
 * [Rave.io](https://rave.io/)
 * [twoseven](https://twoseven.xyz/)
@@ -300,10 +301,11 @@
 * ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/) - Multi-Site
 * ⭐ **[Lux](https://github.com/iawia002/lux)** - Multi-Site
 * [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/)
-* [CD(R)M-Project](https://discord.gg/cdrm-project) - StreamFab Crack
+* [CD(R)M-Project](https://discord.gg/SYyvPxVyyW) - StreamFab Crack
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site
 * [ytDownloader](https://ytdn.netlify.app/) - Multi-Site
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site
+* [VideoFK](https://www.videofk.com/) - Multi-Site
 * [you-get](https://you-get.org/) - Multi-Site
 * [Yout](https://yout.com/) - Multi-Site - Multi-Site
 * [pastedownload](https://pastedownload.com/)

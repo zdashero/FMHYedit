@@ -95,7 +95,7 @@
 * [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) - Image Upscaling
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image Upscaling
 * [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Upscaling
-* [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
+* [resdet](https://github.com/0x09/resdet) - Detect Upscaled Images
 
 ***
 
@@ -166,7 +166,7 @@
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
 * [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation Tools
+* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [IOPaint](https://github.com/Sanster/IOPaint), [Cleanup.pictures](https://cleanup.pictures/), [ObjectRemover](https://objectremover.com/), [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation / Object Removal
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
 * [Image Splitter](https://ruyili.ca/image-splitter/) - Split Images into Tiles
 * [PicFont](https://picfont.com/) - Add Text to Images
@@ -432,7 +432,7 @@
 
 * 🌐 **[Awesome GIF](https://rentry.co/ccuz3)** - GIF Resources / [GitHub](https://github.com/davisonio/awesome-gif)
 * 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
-* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs),  [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs 
+* [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs),  [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs 
 * [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs 
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
 * [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
@@ -497,12 +497,12 @@
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - Browser Extension
 * ⭐ **[TinEye](https://tineye.com/)** - Fast Image Search / [Extension](https://tineye.com/extensions)
 * ⭐ **[same.energy](https://same.energy/)** - Visual Search Engine
+* ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - Multi Search App
 * ⭐ **[Yandex Images](https://yandex.com/images/)** - Image Search
 * [Google Images](https://images.google.com/) - Image Search
 * [CopySeeker](https://copyseeker.net/) - Image Search
 * [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/) - Image Search with Search Queries
 * [SauceNao](https://saucenao.com/) - Multi Search / [Extension](https://saucenao.com/tools/)
-* [SmartImage](https://github.com/Decimation/SmartImage) - Multi Search App
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [RootAbout](https://rootabout.com/) - Archive / OpenLibrary Reverse Image Search
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search
@@ -746,7 +746,7 @@
 * [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators
 * [goodpalette](https://goodpalette.io/), [Huemint](https://huemint.com/), [AI Colors](https://aicolors.co/) or [PaletteMaker](https://palettemaker.com/) - Generate UI Color Palettes
 * [couleur.io](https://couleur.io/) - CSS Color Palettes Generator
-* [UI Colors](https://uicolors.app/create) or [Tints](https://www..dev/) - Tailwind CSS Color Generators
+* [UI Colors](https://uicolors.app/create) or [Tints](https://www.tints.dev/) - Tailwind CSS Color Generators
 * [Poolors](https://poolors.com/) - Generate Most / Least Used Color Palettes
 * [Cielab](https://cielab.io/) - Human Perception Color Tool
 

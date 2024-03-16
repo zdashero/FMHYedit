@@ -138,7 +138,7 @@
 * [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/), [Phonobase](http://www.phonobase.org/index.php?langue=en) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
-* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music
+* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
@@ -248,7 +248,7 @@
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com) - Ambient Noise Generator
 * [NoisyLoop](https://noisyloop.com/) - Ambient Urban Sounds
 * [Coffitivity](https://coffitivity.com/) or [Hipstersound](https://hipstersound.com/) - Ambient Café Sounds / Relaxation 
-* [Sound Of Colleagues](https://soundofcolleagues.com/) - Ambient Office Sounds
+* [Sound Of Colleagues](https://soundofcolleagues.com/) or [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds
 * [I Miss My Bar](http://imissmybar.com/) - Ambient Bar Sounds 
 * [HomeSick](https://scoreascore.com/homesick) - Ambient Home Sounds
 * [You are Listening To LA](http://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio 
@@ -521,7 +521,8 @@
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
-* ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV 
+* ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV
+* ⭐ **[Chosic](https://www.chosic.com/)**, [Dubolt](https://dubolt.com/) or [Maroofy](https://maroofy.com/) - Song Discovery Tools
 * ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs Easily
 * [Kworb](https://kworb.net/) - Music Top Charts
 * [TokBoard](https://tokboard.com/) or [TokChart](https://tokchart.com/) - TikTok Song Charts
@@ -543,7 +544,6 @@
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
 * [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists between Services
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
-* [Dubolt](https://dubolt.com/), [Maroofy](https://maroofy.com/) or [Chosic](https://www.chosic.com/) - Song Discovery Tools
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play a Random Rare Song from YouTube 
 * [Random Album Bookmark Script](https://pastebin.com/rR4qrvnX) - Find Random Albums
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Each Weekday 
@@ -585,6 +585,7 @@
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Audio Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [AudioToolSet](https://audiotoolset.com/) or [Safeaudiokit](https://safeaudiokit.com/) - Audio Multi-Tool Sites
+* [Pillowcase](https://.su/) - Audio File Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests
 * [LowAudioLatency](https://github.com/spddl/LowAudioLatency/) - Reduce Audio Latency
 * [DigitalFeed](https://abx.digitalfeed.net/) - Lossless Audio Sound System Test
@@ -739,6 +740,7 @@
 * [editor.audio](https://editor.audio/) - Online Editor
 * [Efflux](https://www.igorski.nl/application/efflux/) - Online Editor
 * [TwistedWave](https://twistedwave.com/online) - Online Editor
+* [xAudioPro](https://www.xaudiopro.com/en/) - Online Editor
 * [BeatMachine](https://beatmachine.branchpanic.me/) or [SongSurgeon](https://songsurgeon.com/engine/ssweb/) - Audio Tempo Editors
 * [Audovia Music](https://audovia.co.uk/) - Classical Music Creator
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Audio Composers / [Archive](https://archive.org/details/mariopaintcomposer_201609)
@@ -786,7 +788,7 @@
 ## ▷ Audio Plugins
 
 * 🌐 **[Open-Source Audio Plugins](https://github.com/webprofusion/OpenAudio)** - Plugin Projects Index
-* ⭐ **[G-MEH](https://g-meh.com/vst/)**
+* ⭐ **[G-MEH](https://g-meh.com/vst/)** / [Premium Bypass](https://gmehpremium.pages.dev/)
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)** or [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - Plugin Subreddits
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - [Archive](https://t.me/plugincloudsarchive)

@@ -29,7 +29,7 @@
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
 * [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
-* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank), [TopMillion](https://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
+* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [TopMillion](https://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) - Piracy Guides
 * [pilssken](https://pilssken.neocities.org/warez/) or [The Pirate List](https://thepiratelist.com/) - Piracy Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
@@ -194,7 +194,8 @@
 * [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
 * [Roadside America](https://www.roadsideamerica.com/), [RoadTrippers](https://roadtrippers.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](https://www.thesalmons.org/lynn/whgmap.html) - World Heritage Sites
-* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
+* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Find Concerts / Music Festivals
+* [Cadenza](http://www.cadenza.org/) - Find Classical / Contemporary Concerts
 * [DemoParty](https://www.demoparty.net/) - Find Demoscene Events
 * [Retro Directory](https://retro.directory/) - Find Arcades / Vintage Shops
 * [AnimeCons](https://animecons.com/) - Find Anime Conventions
@@ -208,7 +209,6 @@
 * [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner
-* [FlyerTalk](https://www.flyertalk.com/forum/trending.php) - Frequent Flyers Forum
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
@@ -300,7 +300,7 @@
 * [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
-* [Wigle](https://wigle.net/) - 802.11 Wireless Network Map
+* [Wigle](https://wigle.net/) - Wireless Network Mapping
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
 * [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
@@ -880,7 +880,7 @@
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [whena.re](https://whena.re/) - Friend / Team Timezone Viewer
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
-* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
+* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
 * [AllBadges](https://allbadges.net/en) - Track Badge Collection
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
@@ -958,7 +958,7 @@
 * [Monkey](https://www.monkey.app/) - Random Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [FandomPost](https://fandompost.vbulletin.net/) - Fandom Discussions
-* [AnimeSuki](https://forums.animesuki.com/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
+* [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [/r/Piracy](https://www.reddit.com/r/Piracy/) or [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
 * [Resetera](https://www.resetera.com/) or [Neogaf](https://www.neogaf.com/) - Game Discussion
 * [DreamJournal](http://dreamjournal.net/) - Dream Sharing Community
@@ -1210,12 +1210,12 @@
 * [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
 * [Park My Spaceship](https://parkmyspaceship.com/) - Spaceship Size Scale
 * [Cube Rule](https://cuberule.com/) - The Cube Rule of Food
-* [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronouce "GIF"
+* [The GIF Pronunciation Page](https://www.olsenhome.com/gif/) - How to Pronounce "GIF"
 * [D-E-F-I-N-I-T-E-L-Y](https://d-e-f-i-n-i-t-e-l-y.com/) - How to Spell Definitely
 * [The Gyllenhaal Experiment](https://pudding.cool/2019/02/gyllenhaal/) - Common Pop Star Misspellings
 * [TheCrowBox](https://thecrowbox.com/) - Help Train Crows
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
-* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux kernal source code Words
+* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux kernel source code Words
 * [DeletedCity](http://deletedcity.net/) - Geocities Visualizer 
 * [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
 * [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
@@ -1286,7 +1286,7 @@
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)
 * [The Santa Tracker](https://www.thesantatracker.com/) - Track Santa during Christmas
 * [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools' Pranks Played by Websites 
-* [PrankHotline](https://prankhotline.com/) or [Fake All](https://apps.apple.com/us/app/fake-all-call-chat-message/id1518594150) - Phone Pranks
+* [PrankHotline](https://prankhotline.com/) - Phone Pranks
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
 * [Update Faker](https://updatefaker.com/) or [Fake Update](https://fakeupdate.net/) - Fake System Update Pranks
 * [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware

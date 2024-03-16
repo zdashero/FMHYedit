@@ -14,7 +14,6 @@
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
-* [Content Parser](https://content-parser.com/) - Extract Markdown, HTML and Text from Sites
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner Apps / [GitHub](https://github.com/simon-knuth/scanner)
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converter
@@ -117,12 +116,12 @@
 
 ## ▷ Grammar Check
 
-* ⭐ **[Scribens](https://www.scribens.com/)**
-* ⭐ **[LanguageTool](https://languagetool.org/)**
 * [Grammarly](https://www.grammarly.com/grammar-check)
 * [ProWritingAid](https://prowritingaid.com/grammar-checker)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [DeepL Write](https://www.deepl.com/write)
+* [LanguageTool](https://languagetool.org/)
+*  [Scribens](https://www.scribens.com/)
 
 ***
 
@@ -239,6 +238,7 @@
 * [QOwnNotes](https://www.qownnotes.org/)
 * [Zim Wiki](https://zim-wiki.org/)
 * [Laverna](https://laverna.cc/)
+* [Google Keep](https://keep.google.com/)
 * [wikidPad](https://wikidpad.sourceforge.net/)
 * [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)
 * [FromScratch](https://fromscratch.rocks/)

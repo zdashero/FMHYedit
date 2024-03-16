@@ -18,29 +18,27 @@
 * [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
 * [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
 * [Easings](https://easings.net/) - CSS Animation Cheat Sheet
-* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
+* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheat Sheet 
 * [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
 * [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
 * [Underdash](https://surma.github.io/underdash/) - JS Snippets
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
-* [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
+* [SEO Cheat Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheat Sheet
 
 ***
 
 # ► Courses / Tutorials
 
-* 🌐 [Awesome Certificates](https://github.com/PanXProject/awesome-certificates), [Learn For Free](https://github.com/aviaryan/learn-for-free) or [Awesome Learning Dev](https://www.learndev.info/en) - Dev Course Indexes
+* 🌐 **[Awesome Certificates](https://github.com/PanXProject/awesome-certificates)** or [Learn For Free](https://github.com/aviaryan/learn-for-free) - Dev Course Indexes
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)** or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming Learning Resources
-* 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**, [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - YouTube Dev Channels Indexes
+* 🌐 **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - YouTube Dev Channels Indexes
 * ↪️ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - Read / Download Programming Books
 * ↪️ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
-* ⭐ **[Odin Project](https://www.freecodecamp.org/learn/the-odin-project/)**, [2](https://www.theodinproject.com/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/) or [DecodingDevOps](https://www.decodingdevops.com/) - Developer Q&A
 * [Audio Dev](https://audiodev.blog/newbie-resources/) - Audio Programming Learning Resources
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
-* [Awesome Microservices DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - .Net Microservice Guides
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
@@ -59,7 +57,7 @@
 * [Goldfish](https://goldfish-app-5igcw.ondigitalocean.app/) - Programming Courses
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [HelloWorldCollection](http://helloworldcollection.de/) - Hello World Programming Collection
-* [CodeWell](https://www.codewell.cc/) or [CodeTriage](https://www.codetriage.com/) - Learn Coding by Building Projects
+* [CodeTriage](https://www.codetriage.com/) - Learn Coding by Building Projects
 * [Codecademy](https://www.codecademy.com/) - Coding Lessons
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming 
 * [Advent of Code](https://adventofcode.com/) - Programming Puzzles
@@ -95,6 +93,7 @@
 
 * 🌐 **[MDN](https://developer.mozilla.org/)** or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Web Dev Learning Resources
 * 🌐 **[Frontend Developers](https://github.com/andrew--r/channels)** or [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr) - Web Dev Youtube Channels Indexes
+* ⭐ **[Odin Project](https://www.freecodecamp.org/learn/the-odin-project/)**, [2](https://www.theodinproject.com/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course 
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
 * ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/) or [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - Javascript Learning Sites
@@ -159,7 +158,7 @@
 
 * 🌐 **[Mobile Design Resources](https://github.com/josephgoksu/mobile-design-resources)** - App Design Learning Resources
 * ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
-* [Official Android Courses](https://developer.android.com/courses) - App Dev Courses
+* [Official Android Courses](https://developer.android.com/courses) or [Windows App Development](https://learn.microsoft.com/en-us/windows/apps/) - App Dev Courses
 * [LearnCS](https://www.learncs.online/lessons) - Lean Java/Kotlin
 * [CocoaDevCentral](http://cocoadevcentral.com/) - Legacy OS X / Cocoa Programming Tutorials
 * [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
@@ -308,14 +307,12 @@
 * [Big-O Cheatsheet](https://www.bigocheatsheet.com/) - Computer Science Complexities Cheatsheet
 * [CSDIY](https://csdiy.wiki/en/) or [LearnAIFromScratch](https://learnaifromscratch.github.io/) - Computer Science Learning Guides
 * [Code.org](https://code.org/) - Computer Science Courses
-* [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - Computer Science Courses
-* [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree) - Computer Science Courses
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - Computer Science Courses
 * [Open Source Society University](https://github.com/ossu/computer-science) - Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [CS50](https://cs50.harvard.edu/x/) - Harvard Computer Science Course
 * [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
-* [Computerphile](https://www.youtube.com/@Computerphile/), [CSDojo](https://www.youtube.com/@CSDojo) or [t v nagaraju Technical](https://www.youtube.com/@tvnagarajutechnical9978) - Computer Science YouTube Channels
+* [Computerphile](https://www.youtube.com/@Computerphile/) or [CSDojo](https://www.youtube.com/@CSDojo) - Computer Science YouTube Channels
 * [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science Books
 * [Papers We Love](https://paperswelove.org/) - Computer Science Research Papers
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
@@ -362,7 +359,7 @@
 * [Statically](https://statically.io/) - Load Websites Faster
 * [Qdrant](https://qdrant.tech/) - Vector Database
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
-* [WebUI](https://webui.me/) - Embed WebUI Libaries in Project
+* [WebUI](https://webui.me/) - Embed WebUI Libraries in Project
 * [Dagu](https://github.com/dagu-dev/dagu) - WebUI Job Manager
 * [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
@@ -399,6 +396,7 @@
 * [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
 * [cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app/) - Cloudflare IP Tester
 * [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
+* [Cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel Client
 * [LightTPD](https://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
 * [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
 * [Oracle](https://www.oracle.com/cloud/free/) - Free Server Tools
@@ -561,7 +559,7 @@
 * ⭐ **[Check-Host](https://check-host.net/)**, [StatPing](https://github.com/statping/statping), [Uptime](https://betterstack.com/uptime), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Highlight](https://www.highlight.io/), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
 * [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers
-* [Sentora](https://sentora.org/) - Web Hosting Control Panel
+* [Sentora](https://sentora.org/) or [Moonlight](https://github.com/Moonlight-Panel/Moonlight) - Web Hosting Panels
 * [SegFault](https://shell.segfault.net/) - Disposable Root Servers
 * [GetDeploying](https://getdeploying.com/) - Compare Cloud Providers
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
@@ -960,6 +958,7 @@
 * [lastversion](https://github.com/dvershinin/lastversion) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
 * [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
 * [readme.so](https://readme.so/) - Readme Markdown Editor
+* [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - Terminal Style Readme
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
 * [Langits](https://langits.davejudd.dev/) - See Most Used Programming Languages User
 * [gitignore.io](https://www.toptal.com/developers/gitignore/) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
@@ -970,7 +969,7 @@
 ## ▷ GitHub Tools
 
 * 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [OSS Insight](https://ossinsight.io/), [grep.app](https://grep.app/), [awesome-lis](https://github.com/topics/awesome-list), or [awesome-github](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
-* 🌐 **[Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
+* 🌐 **[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
 * 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - GitHub Action Resources
 * 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
@@ -1088,7 +1087,7 @@
 * [Regex101](https://regex101.com/), [Debuggex](https://www.debuggex.com/) or [Cyrilex](https://extendsclass.com/regex-tester.html) - Regex Editor / Debuggers
 * [AutoRegex](https://www.autoregex.xyz/) - AI-based Regex Generator
 * [AirBroke](https://airbroke.icorete.ch/) or [Glitchtip](https://glitchtip.com) - Error Tracking Platforms
-* [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms 
+* [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/algo-visualizers/#/sorting-visualizer/bubble) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms 
 * [Code2Flow](https://app.code2flow.com/), [Flowchart.js](https://flowchart.js.org/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
 * [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
 * [Wasmer](https://wasmer.io/) - WebAssembly Apps / Libraries
@@ -1173,6 +1172,7 @@
 * [GNU Octave](https://octave.org/) - Scientific Programming Language
 * [JavaScripting](https://www.javascripting.com/) or [Danfo.js](https://github.com/javascriptdata/danfojs) - JavaScript Libraries
 * [NodeJS](https://nodejs.org/en/) - JavaScript Runtime Environment
+* [LLRT](https://github.com/awslabs/llrt) - Lightweight JavaScript Runtime
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
@@ -1195,7 +1195,6 @@
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [trzsz](https://github.com/trzsz/trzsz.js) - Make trzsz Compatible with tmux in Terminal
-* [Bundlephobia](https://bundlephobia.com/) - Find size cost of Adding npm Package
 * [quicktype](https://app.quicktype.io/) - JSON Parser
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatting
 * [Transluna](https://transluna.net/) - JSON Translator
@@ -1239,6 +1238,7 @@
 * [Telosys](https://www.telosys.org/) - Coding AI
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Coding AI
 * [Sourcery](https://sourcery.ai/) - Coding AI
+* [Devv](https://devv.ai/) - Coding AI
 * [Cody](https://about.sourcegraph.com/cody) - Coding AI
 * [CodiumAI](https://www.codium.ai/) - Coding AI
 * [continue](https://continue.dev/) - Coding AI
@@ -1458,6 +1458,7 @@
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
 * [PDF Bot](https://github.com/esbenp/pdf-bot) - A Node queue API for generating PDFs
 * [aftership](https://www.aftership.com/) - Shipment Tracking API
+* [Calendarific](https://calendarific.com/) - Public Holidays API
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
 * [TheCatAPI](https://thecatapi.com/) - Cat Rating API
 * [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs

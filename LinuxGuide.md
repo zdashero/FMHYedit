@@ -53,7 +53,7 @@
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://github.com/xwmx/nb), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor / Note Apps
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [nb](https://github.com/xwmx/nb) or [Mousepad](https://github.com/codebrainz/mousepad) - Text Editor / Note Apps
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
@@ -71,7 +71,7 @@
 * [Timestrap](https://timestrap.bythewood.me/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Productivity Managers
 * [SafeEyes](https://slgobinath.github.io/SafeEyes/) - Break Reminders
 * [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
-* [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - Manga Reader
+* [Komikku](https://valos.gitlab.io/Komikku/), [Tachidesk-VaadinUI](https://github.com/Suwayomi/Tachidesk-VaadinUI) or [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - Manga Readers
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [A2LN](https://github.com/patri9ck/a2ln-app) - Display Android Notifications on Linux
 * [Breathing](https://github.com/SeaDve/Breathing) - Relaxation / Breathing Tool
@@ -115,7 +115,7 @@
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
 * [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
-* [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
+* [Flowblade](https://jliljebl.github.io/flowblade/) - Video Editor
 * [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
 * [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 * [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
@@ -186,6 +186,7 @@ Linux Gaming Guide
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
+* [RetroPlus](https://github.com/Vysp3r/RetroPlus) - ROM Downloader
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
@@ -203,7 +204,7 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
-* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox Player / Studio
+* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox Studio
 * [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
