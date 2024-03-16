@@ -16,7 +16,7 @@
     "postinstall": "nitropack prepare"
   },
   "dependencies": {
-    "@fmhy/colors": "^0.0.10",
+    "@fmhy/colors": "^0.0.11",
     "@headlessui/vue": "^1.7.17",
     "@resvg/resvg-js": "^2.6.0",
     "consola": "^3.2.3",
