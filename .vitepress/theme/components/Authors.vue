@@ -13,23 +13,23 @@ interface Author {
 const data = [
   {
     name: 'nbats',
-    github: 'https://github.com/nbats'
+    github: 'nbats'
   },
   {
     name: 'Kai',
-    github: 'https://github.com/Kai-FMHY'
+    github: 'official-kaizen'
   },
   {
     name: 'taskylizard',
-    github: 'https://github.com/taskylizard'
+    github: 'taskylizard'
   },
   {
     name: 'zinklog',
-    github: 'https://github.com/zinklog2'
+    github: 'zinklog2'
   },
   {
     name: 'Q',
-    github: 'https://github.com/qiracy'
+    github: 'qiracy'
   }
 ] satisfies Author[]
 
@@ -41,7 +41,7 @@ const authors = computed(() =>
 <template>
   <div class="flex flex-wrap gap-4 pt-2">
     <div v-for="(c, index) of authors" class="flex gap-2 items-center">
-      <img :src="`${c.github}.png`" class="w-8 h-8 rounded-full" />
+      <img :src="`/api/gh/${c.github}`" class="w-8 h-8 rounded-full" />
       <a :href="c.github">{{ c.name }}</a>
       <span v-if="index < authors.length - 1">•</span>
     </div>
