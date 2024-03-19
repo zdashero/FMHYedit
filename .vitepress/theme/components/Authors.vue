@@ -42,7 +42,7 @@ const authors = computed(() =>
   <div class="flex flex-wrap gap-4 pt-2">
     <div v-for="(c, index) of authors" class="flex gap-2 items-center">
       <img :src="`/api/gh/${c.github}`" class="w-8 h-8 rounded-full" />
-      <a :href="c.github">{{ c.name }}</a>
+      <a :href="`https://github.com/${c.github}`">{{ c.name }}</a>
       <span v-if="index < authors.length - 1">•</span>
     </div>
   </div>

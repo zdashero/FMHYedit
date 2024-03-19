@@ -1,6 +1,5 @@
 export const onRequest: PagesFunction = async (context) => {
   const avatar = `https://github.com/${context.params.avatar}.png`
-  // const avatar = `https://github.com/${a[a.length - 1]}.png`
   try {
     const response = await fetch(avatar)
 
